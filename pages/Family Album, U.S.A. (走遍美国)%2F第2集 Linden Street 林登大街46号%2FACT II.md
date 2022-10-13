@@ -1,0 +1,174 @@
+tags:: [[Family Album, U.S.A. (走遍美国)]]
+title:: Family Album, U.S.A. (走遍美国)/第2集 Linden Street 林登大街46号/ACT II
+who:: [[Richard Stewart]] [[Alexandra Papas]] [[Marilyn Stewart]]
+
+-
+- {{renderer :tocgen}}
+-
+- # 第2集 Linden Street 林登大街46号 ACT II
+	- ## [[视频]]
+		- ### [[中英双语教师讲解]]
+			- <iframe src="https://player.bilibili.com/player.html?aid=75703520&bvid=BV1hJ411D7D7&cid=129495888&page=2" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" height="480px"> </iframe>
+	- ## [[音频]]
+		- ### [[英文原声]]
+			- <audio src="http://k6.kekenet.com/Sound/Article/kekenetalbum/u0102.mp3" id="myaudio" controls="" preload="auto">no support!</audio>
+	- ## [[文字]]
+		- Excuse me, officer. 对不起,警官。
+			- [[officer]]
+				- 本文中的 officer，是指 police officer，即警官。
+		- Can you help me? 你能帮帮我吗?
+			- [[Excuse me]]
+			- [[Excuse me, officer. Can you help me]]
+				- 当我们向别人寻求帮助时，可以说 Excuse me. Can you help me?(劳驾，可以帮个忙吗?)
+		- Sure. 当然可以。
+			- [[Sure]]
+		- Can you tell me 你能告诉我
+			- [[Can you tell me ...]]
+		- how to get to Linden Street, in Riverdale? 怎么去Riverdale的林登街?
+			- [[Can you tell me how to get to sth.]]
+				- "Can you tell me how to get to ...? "可以用来向别人问路，意思是“您能告诉我怎么才能到达某某地点吗?”
+			- [[how to get to ...]]
+			- [[Linden Street]]
+			- [[Riverdale]]
+		- "Richard Stewart, 46 Linden Street, “Richard Stewart, 林登街46号,
+		- Riverdale, New York." Riverdale, 纽约”
+			- [[46 Linden Street, Riverdale, New York]]
+				- 这是一般地址的说法。地点由小到大排列。
+		- You should take the number 1 subway. 应当搭1路地铁。
+			- [[subway]]
+		- Is there a station near here? 附近有地铁站吗?
+			- [[station]]
+			- [[near here]]
+		- Yes. The station's that way. 有。地铁站在那边。
+			- [[be that way]]
+		- You should take the number 1 train 搭1路车
+			- [[take the number ...]]
+		- to Van Cortlandt Park. 到Van Cortlandt公园下车。
+			- [[Van Cortlandt Park]]
+		- Number 1 train to Van Cortlandt Park. Thank you. 1路车到Van Cortlandt公园。谢谢。
+		- Anytime. Good luck. 不用谢。祝你好运。
+			- [[Anytime]]
+				- 在你为别人做了某事后别人向你道谢时回答 Anytime，相当于 You are welcome anytime.You are welcome anytime
+			- [[Good luck]]
+				- 祝你好运。一般用于与人分手时，回答也用 Good luck.
+		- Remember, the number 1 train. The uptown platform. 记住, 搭1路车。在北线月台。
+			- [[Remember]]
+			- [[uptown platform]]
+				- [[uptown]]
+				- [[platform]]
+				- [[downtown]]
+		- Thank you. 谢谢。
+		- You're welcome. 不客气。
+			- [[You're welcome]]
+		- Is this pink too bright for me? 这粉红色对我是不是太过鲜艳了?
+			- [[too adj. for sb.]]
+			- [[pink]]
+			- [[bright]]
+		- Mmm-hmm. It is a very bright pink. 是的,这种粉红色是鲜艳了点。
+			- [[Mmm-hmm]]
+		- Try this. It's size eight. 试试这一件,尺码是八号。
+			- [[尺码]]
+		- But I wear size ten. 但我穿十号的衣服。
+			- [[尺码]]
+		- How about green? It's size ten. 绿的怎么样?它是十号的。
+			- [[How about ...]]
+		- Let me try it on. 让我试试看。
+			- [[Let me try it on]]
+				- Let me... 让我...，允许我...。注意在说这两个字时，这位顾客使用的是口语音:Lemme...这里 let 的 t 因为连读而失去了爆破。 try (it) on 试穿。
+		- I'm taking too much of your time. 我耽误了你很多时间。
+			- [[I'm taking too much of your time]]
+				- [[take too much of sth.]]
+		- It's six o'clock. 已经六点了。
+			- [[时间]]
+			- [[six o'clock]]
+			- [[five forty-five]]
+			- [[ten after six]]
+		- Where's my husband? 我丈夫怎么还没来?
+		- I was expecting him here at five forty-five. 我们约好了五点四十五在这儿会面的。
+			- [[expect sb. here]]
+				- [[expect]]
+					- 我本来指望他可以 5 点 45 分到这里的。Expect 是“期望，盼望某事发生”的意思。当我们盼望一个朋友来，等一个电话，等一封信时都 可以使用 expect.
+		- Don't worry. The traffic is very heavy at this hour. 别担心。这个时间交通很忙。
+			- [[Don't worry]]
+				- [[Don't worry about ...]]
+			- [[heavy]]
+				- 这个时间交通很拥挤。heavy 在这里形容交通繁忙，拥堵。
+		- I know. But we're going to be late for dinner. 我知道。但我们晚餐可要迟到了。
+			- [[be late for sth.]]
+		- I'll take this green sweater. 我买这件绿色毛衣吧。
+			- [[sweater]]
+		- I like the color on me, don't you? 我觉得这种颜色较适合我,你说呢?
+			- [[don't you]]
+				- [[反问]]
+		- I think it looks terrific on you. 我觉得你穿上它好极了
+			- [[Terrific]]
+				- 我觉得你穿上它好极了。美国人在赞美别人的时候，喜欢用一些比较夸张的形容词。像在本情境中，女性顾客试穿了一件绿色的毛衣， 她对 Marilyn 说"I like the color on me, don't you?"(我觉得我穿这颜色不错，你说呢?)Myrilyn 用了这个"terrific"，来赞美她 穿这件衣服看起来“好极了，棒极了，简直没治了”。
+		- I'm sorry I'm so late. 对不起我迟到这么久。
+			- [[I'm sorry I'm so late]]
+		- I had a really bad day. 今天真是糟透了。
+			- [[I had a really bad day]]
+				- 我今天真是糟透了。我今天可不顺了。
+		- It's ten after six. We're late. 现在是六点十分。我们晚了。
+			- [[We're late]]
+				- [[be late]]
+		- Robbie's cooking tonight, and dinner's at six thirty. 今晚Robbie做饭,晚餐六点半开始。
+		- I know. I know. I'm really sorry. 我知道。我知道。我真的很抱歉。
+			- [[I know. I know. I'm really sorry]]
+				- [[I'm really sorry]]
+		- I left my bag of film on the ferry. 我把装底片的旅行袋遗忘在渡船上。
+			- [[ferry]]
+		- I went back for it, but the ferry was gone. 等我回去找的时候,船已经开走了。
+			- [[go back]]
+			- [[be gone]]
+		- I lost a whole day's work. 我浪费了一整天的工作成果。
+			- [[a whole day's work]]
+				- [[a whole day]]
+		- I'll call the Staten Island Ferry lost-and-found office. 我来打电话给Staten Island渡轮失物招领处。
+			- [[Staten Island]]
+			- [[lost-and-found office]]
+				- 我来给斯塔滕岛渡船失物招领处打个电话。lost-and-found office 是指失物招领处。美国的许多公共场所或公园都设有失物招领处，失 主可直接与之联系。
+		- I didn't think of that. Thanks. 我倒没有想到这个法子。谢了。
+			- [[think of]]
+			- 美国人即使是在亲人之间，也是谢谢不离口。
+			- 当 Marilyn 想到要给失物招领处打电话这个主意后，Richard 立即表达了感激之情 -- "I didn't think of that.Thanks."(我就没想到 这个,谢谢。) 这里的 think of 相当于“记起，想到”。
+			- 随后，Marilyn 给查号台打电话查询斯塔滕岛渡船失物招领处的电话。面对妻子的帮助，Richard 又一次致谢--"I really appreciate it, Marilyn."(我实在太感谢你为我所做的这一切了，Marilyn。)
+		- Hello. 你好。
+		- Yes. The number, please, 你好。我想问一下，
+			- The number, please, of the...请告诉我...的电话号码。用此来向查号台询问电话号码。
+		- of the Staten Island Ferry lost-and-found office. Staten 渡轮失物招领处的电话号码。
+		- Five five five...zero eight zero eight. 555...0808。
+		- Thank you. 谢谢。
+		- I really appreciate it, Marilyn. 真的很感谢,Marilyn。
+			- [[I really appreciate it]]
+				- [[I appreciate your help]]
+		- Hello.你好。
+		- Did anyone find a camera bag this afternoon, 请问今天下午有人捡到一个照像机旅行袋，
+			- [[anyone]]
+			- [[camera]]
+			- [[this afternoon]]
+				- [[afternoon]]
+		- a small canvas bag, 一个小的粗帆布袋？
+			- [[small canvas bag]]
+				- 小的粗帆布包。这里用了两个形容词来修饰 bag 一词:small 指尺寸;canvas(粗帆布)指材料。一般形容词的排列顺序是表示尺寸的 放在前，表示材料的放在后。
+				- [[canvas]]
+		- on the J. F. Kennedy Ferry?...No? 是在J. F. Kennedy渡船上丢的。……没有吗?
+			- [[J. F. Kennedy Ferry]]
+				- [[Kennedy]]
+				- [[Ferry]]
+		- Maybe someone will find it. 也许会有人发现的。
+			- [[someone]]
+		- The name is Stewart, Richard Stewart. 失主是Stewart ,Richard Stewart。
+		- And the telephone number is five five five... 电话是555......
+		- three oh nine oh. Thank you. 3090。谢谢 。
+		- Sorry, Richard. They don't have it. 对不起,Richard。他们那儿没有。
+		- Thanks, anyway. 不管怎样,我都得谢谢你。
+			- [[Thanks, anyway]]
+				- 无论如何，我还是要谢谢你。当有人尽力想帮你但没帮上忙时可用此短语道谢。
+		- There was a girl on the ferry. 在渡船上有一个女孩。
+		- Now maybe... 也许现在……
+			- [[Now maybe ...]]
+		- Tell me about it on the way home. 在回家的路上告诉我吧 。
+			- [[on the way home]]
+	- ## [[参考链接]]
+		- [1] [《走遍美国Family Album USA》01 46 Linden Street 林登大街46号 ACT 2_哔哩哔哩_bilibili - https://www.bilibili.com/video/BV1hJ411D7D7?p=2](https://www.bilibili.com/video/BV1hJ411D7D7?p=1)
+		- [2] [走遍美国:第2集 Linden Street 林登大街46号 ACT II_品牌英语听力 - 可可英语 - http://www.kekenet.com/Article/200510/1416.shtml](http://www.kekenet.com/Article/200510/1416.shtml)

@@ -18,6 +18,7 @@
 !.dockerignore
 !.gitignore
 
+!assets/**
 !journals/**
 !logseq/**
 !pages/**

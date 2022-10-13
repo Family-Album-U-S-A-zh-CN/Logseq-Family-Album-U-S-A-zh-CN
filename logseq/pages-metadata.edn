@@ -81,7 +81,7 @@
   :block/updated-at 1665634189023}
  {:block/name "contents",
   :block/created-at 1665634506532,
-  :block/updated-at 1665634506532}
+  :block/updated-at 1665642569961}
  {:block/name "doing",
   :block/created-at 1665634506532,
   :block/updated-at 1665634506532}
@@ -440,6 +440,9 @@
  {:block/name "中英双语教师讲解",
   :block/created-at 1665634188937,
   :block/updated-at 1665634188937}
+ {:block/name "关于",
+  :block/created-at 1665642569960,
+  :block/updated-at 1665642569960}
  {:block/name "参考链接",
   :block/created-at 1665634189087,
   :block/updated-at 1665634189087}
