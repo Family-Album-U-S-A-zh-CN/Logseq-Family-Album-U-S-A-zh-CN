@@ -4,7 +4,12 @@ title:: Family Album, U.S.A. (走遍美国)
 -
 - # Family Album, U.S.A. (走遍美国)
 	- ## [[视频]]
-		- [走遍美国Family Album USA【全集高清】_哔哩哔哩_bilibili - https://www.bilibili.com/video/BV1hJ411D7D7](https://www.bilibili.com/video/BV1hJ411D7D7)
+		- ### 中英双语教师讲解
+			- <iframe src="https://player.bilibili.com/player.html?aid=75703520&bvid=BV1hJ411D7D7&cid=129495888" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" height="480px"> </iframe>
+		-
 	-
 	- ## [[笔记]]
 		- ![走遍美国精讲笔记pdf完整版高清重点版.pdf](../assets/走遍美国精讲笔记pdf完整版高清重点版_1665056529570_0.pdf)
+	-
+	- ## [[参考]]
+		- [1] [走遍美国Family Album USA【全集高清】_哔哩哔哩_bilibili - https://www.bilibili.com/video/BV1hJ411D7D7](https://www.bilibili.com/video/BV1hJ411D7D7)
