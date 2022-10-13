@@ -1,0 +1,25 @@
+
+
+# First, Denylist ignore everything
+*
+
+# Now, Allowlist allow anything that's a directory, but not a file.
+!*/
+
+# Allowlist the file or folder
+# !NotIgnoredFile
+# !NotIgnoredFolder/
+
+# Recursively allowlist its contents
+# !NotIgnoredFolder/**
+
+!.github/**
+
+!.dockerignore
+!.gitignore
+
+!journals/**
+!logseq/**
+!pages/**
+
+!CNAME

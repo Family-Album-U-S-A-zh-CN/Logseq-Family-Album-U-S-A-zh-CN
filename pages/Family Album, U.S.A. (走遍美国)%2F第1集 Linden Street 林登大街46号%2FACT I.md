@@ -1,0 +1,280 @@
+tags:: [[Family Album, U.S.A. (走遍美国)]]
+title:: Family Album, U.S.A. (走遍美国)/第1集 Linden Street 林登大街46号/ACT I
+who:: [[Richard Stewart]] [[Martha Vann]] [[Gerald Vann]] [[Alexadra Papas]]
+where:: [[New York Harbor]]
+
+-
+- {{renderer :tocgen}}
+-
+- # 第1集 Linden Street 林登大街46号/ACT I
+	- ## [[视频]]
+		- ### [[中英双语教师讲解]]
+			- <iframe src="https://player.bilibili.com/player.html?aid=75703520&bvid=BV1hJ411D7D7&cid=129495888&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" height="480px"> </iframe>
+	- ## [[音频]]
+		- ### [[英文原声]]
+			- <audio src="http://k6.kekenet.com/Sound/Article/kekenetalbum/u0101.mp3" id="myaudio" controls="" preload="auto">no support!</audio>
+	- ## [[文字]]
+		- **Richard:** Excuse me. My name is Richard Stewart. I'm a photographer. May I take a picture of you and your little boy?
+		- 对不起，我叫Richard Stewart。我是一位摄影师。我可以为你和你的小男孩儿拍一张照片吗？
+			- [[Excuse me]]
+				- 这是 Richard 在与陌生人搭讪并介绍自己。
+				- Excuse me 这个短语用来引起对方的注意。相当于汉语的“对不起，劳驾”。
+			- [[My name is ...]]
+				- 我的名字是...
+				- [[I'm ...]]
+					- 我是...
+			- [[Richard Stewart]]
+			- [[photographer]]
+				- [[photo]]
+				- [[grapher]]
+			- Excuse me. My name is .... I'm a/an .... May I ...
+			- 自我介绍时可以先介绍自己的名字，再说明自己的职业。
+			- 介绍自己的名字时，可以像 Richard 一样，说 My name is Richard Stewart.
+			- 也可以像 Mrs. Vann 那样，说 I'm Martha Vann.
+			- 或者直接说出姓名 Alexadra.
+			- [[I'm a/an ...]]
+				- 我是一名...
+			- [[May I]]
+				- May I...是一种很礼貌的征求别人的同意的说法，相当于“我可以...吗?”。
+				- Richard 想要为 Mrs. Vann 母子拍照片，他首先要征得当事人的同意，否则闹出肖像权的问题可不是好玩滴~~
+			- [[take a picture]]
+				- [[take a picture of sb.]]
+				- [[take a picture for sb.]]
+		- **Mrs.Vann:** What's it for?
+		- 做什么用？
+			- [[Mrs]]
+			- [[Martha Vann]]
+			- [[What's it for ...]]
+		- **Richard:** It's for a book.
+		- 是为一本书拍的。
+			- [[It's for ...]]
+				- [[What's it for ...]]
+		- **Mrs.Vann:** You're writing a book?
+		- 你在写一本书吗?
+		- **Richard:** It's a book of pictures. I call it Family Album, U.S.A.
+		- 这是一本摄影集。我称之为“走遍美国”。
+			- [[call it Family Album]]
+				- [[call it sth.]]
+				- [[Family Album, U.S.A]]
+					- [[Family]]
+					- [[Album]]
+					- [[U.S.A.]]
+		- **Mrs.Vann:** Oh, that's a nice idea. Well, it's fine if you take our picture. I'm Martha Vann.
+		- 噢,这想法不错。你想为我们拍照就请吧。我叫Martha Vann。
+			- [[that's a nice idea]]
+			- [[It's fine]]
+			- [[Martha Vann]]
+		- **Richard:** Thank you. I appreciate your help. I'm Richard. What's your name?
+		- 谢谢。很感谢你的帮助。我是Richard，你叫什么？
+			- [[appreciate]]
+			- [[I appreciate your help]]
+				- [[appreciate]]
+				- [[I really appreciate it]]
+				- 这是在受别人帮助或听了别人的忠告之后的感谢语。在 Richard 向 Mrs. Vann 说明了照片的用途后，Mrs. Vann 欣然接受拍照的请求， 之后 Richard 立即向对方表达了感谢。这里也可以说 I really appreciate it.
+			- [[What's your name]]
+				- [[I'm a/an ...]]
+		- **Gerald:** Gerald.
+		- Gerald。
+			- [[Gerald]]
+		- **Richard:** How old are you, Gerald?
+		- 你今年多大？
+			- [[How old are you]]
+		- **Gerald:** Five.
+		- 五岁。
+		- **Richard:** And where do you live?
+		- 你们住哪？
+			- [[Where do you live]]
+				- [[live in]]
+				- [[be in]]
+		- **Mrs.Vann:** We live in California.
+		- 我们住在加利福尼亚州 。
+			- [[live in]]
+				- [[be in]]
+			- [[California]]
+		- **Richard:** Well, welcome to New York. OK, just a second. I'm almost ready here.
+		- 噢，欢迎你们到纽约来。好了，请稍等一下。我快要准备好了。
+			- [[Welcome to sth.]]
+				- Welcome to... 是迎接客人的客套语。Richard 与 Mrs. Vann 母子攀谈几句后得知母子二人来自于 California，于是 Richard 对他们 说，欢迎到纽约来。
+				- 又例如:Welcome to HJ English.
+			- [[just a second]]
+			- [[I'm almost ready here]]
+				- [[I'm ready]]
+		- **Alexadra:** Can I help you?
+		- 我能帮你忙吗？
+			- [[Alexadra]]
+			- [[Can I help you]]
+				- 在为别人提供帮助前，我们可以说 Can I help you?
+				- 也可以说 Let me...(让我，允许我)，如本文中，Richard 对 Alexandra 说"Hey, let me take your picture!" 但是这种说法没有 Can I...的礼貌程度高。
+				- 如果我们愿意接受帮助，则可以回答"Oh, please." 或者"Yes, please."。也可以像 Alexandra 那样很可爱的讲"Wonderful. Please."
+					- [[Oh, please]]
+					- [[Yes, please]]
+					- [[Wonderful. Please]]
+		- **Richard:** Oh, please. Hold Gerald's hand, please. Great! Now point to the buildings. Terrific! Give Mommy a kiss, Gerald. Nice! Thank you, Gerald. And thank you, Mrs Vann.
+		- 噢，太好了。请握住Gerald的手。很好！现在请指着那些建筑物。好极了！亲一亲妈咪，很棒！谢谢
+		- 你， Gerald。谢谢，Vann太太。
+			- [[Oh, please]]
+				- [[Yes, please]]
+				- [[Wonderful. Please]]
+			- [[Great]]
+			- [[Terrific]]
+			- [[Nice]]
+				- 在拍照的过程中，Mrs.Vann 母子每在他的要求下摆一个新的姿势，Richard 都会对他们的配合给予肯定。他用到的"Great! Terrific! Nice!" 都是用来表示“太好了，好极了，很好”的意思。
+			- [[Mommy]]
+		- **Mrs.Vann:** Oh, my pleasure. We'll be looking for your book.
+		- 噢，不客气。我们一定去买你的书。
+			- [[look for sth.]]
+		- **Richard:** Thank you. Good-bye. Bye, Gerald. Thanks again.
+			- [[Good-bye]]
+			- [[Bye]]
+			- [[Thanks again]]
+		- 谢谢。再见。Gerald，再见。再次感谢 。
+		- **Alexandra:** Oh, you're welcome.
+		- 噢 ，请别客气。
+			- [[You're welcome]]
+				- [[My pleasure]]
+				- [[You're welcome anytime]]
+				- [[Anytime]]
+				- 当别人对你表示感谢时，可以用"My pleasure."或者"You're welcome."来进行回应。
+		- **Richard:** Hey, let me take your picture!
+		- 嘿 ，让我给你拍一张照片。
+		- **Alexandra:** Wonderful. Please.
+			- [[Wonderful. Please]]
+				- [[Wonderful]]
+		- 好啊，请。
+		- **Richard:** Are you from New York?
+		- 是从纽约来的吗？
+			- [[Are you from]]
+				- [[be from]]
+			- [[New York]]
+		- **Alexandra:** No, I'm from Greece. I'm an exchange student.
+		- 不是，我是从希腊来的。我是一名交换学生。
+			- [[I'm from]]
+				- [[be from]]
+			- [[Greece]]
+		- **Richard:** When did you come here?
+		- 是什么时候来这儿的？
+			- [[When did you come here]]
+				- [[come here]]
+		- **Alexandra:** Three months ago.
+		- 三个月之前。
+			- [[ago]]
+		- **Richard:** Your English is very good.
+		- 你的英语说得很好。
+		- **Alexandra:** Thanks. I studied English in school.
+		- 谢谢夸奖。我是在学校里学的英语。
+			- [[in school]]
+		- **Richard:** Would you like some coffee?
+		- 要不要来点咖啡？
+			- [[Would you like]]
+				- [[Would you like sth.]]
+				- [[Would you like to do]]
+				- Would you like...相当于“你想要...吗?”，在客气地请对方做某事或请客时用。
+				- 如本文中，Richard 问 Alexandra“想来一点咖啡吗”，他说 "Would you like some coffee?"
+				- 在谈到自己的书 Family Album, U.S.A.时，他问对方“想要看一看吗”，"Would you like to see them?" 如果我们不想接受，就说"No, thank you."
+				- 如果愿意接受，则说"Yes. I'd like that." 或者"Yes. Please."
+		- **Alexandra:** No, thank you. Tell me about your book.
+		- 不了，谢谢。谈谈你的书吧。
+		- **Richard:** Oh, it's not finished yet, but I have some of the pictures. Would you like to see them?
+		- 噢，它尚未完成。但我手头有一些照片。要不要看一看？
+			- [[It's not finished yet]]
+				- [[yet]]
+			- [[Would you like]]
+				- [[Would you like to do]]
+				- [[Would you like sth.]]
+		- **Alexandra:** Yes, I'd like that.
+		- 要啊，我想看一看。
+		- **Richard:** Here they are. Family Album, U.S.A.. It's an album of pictures of the United States: the cities, the special places, and the people. And these are pictures of people working: steel workers, bankers, police, street vendors, ambulance drivers, doctors...Oh, this is my father. He's a doctor. This is my mother.
+		- 就在这。走遍美国是关于美国的一些城市、一些特别的地方以及人们的摄影选辑。这是人们工作中的照片：钢架工人、银行职员、警察、街头小贩、救护车驾驶员、医生等等……噢，这是我父亲。他是一名医生。这是我母亲。
+			- [[United States]]
+				- [[U.S.A.]]
+			- [[steel worker]]
+				- [[steel]]
+				- [[worker]]
+			- [[street vendor]]
+				- [[street]]
+				- [[vendor]]
+			- [[ambulance driver]]
+				- [[ambulance]]
+				- [[driver]]
+			- [[Here they are]]
+				- [[Here it is]]
+				- 把东西给别人看时用。单数时用 Here it is.
+		- **Alexandra:** What's her name?
+		- 她叫什么名字？
+			- [[What's]]
+				- [[What's her name]]
+		- **Richard:** Ellen. My younger brother, Robbie. He goes to high school. This is my sister Susan. She works for a toy company. Here's my grandfather. He lives in Florida. And this is my wife Marilyn.
+		- Ellen。这是我弟弟Robbie。他在上高中。这是我妹妹Susan。她在一家玩具公司工作。这是我祖父, 他住在在Florida。这是我太太Marilyn。
+			- [[younger brother]]
+			- [[go to school]]
+			- [[work for]]
+			- [[Here's]]
+			- [[grandfather]]
+			- [[Florida]]
+		- **Alexandra:** Oh, she's very pretty.
+		- 噢，她很漂亮。
+			- [[she's very pretty]]
+				- [[pretty]]
+		- **Richard:** Thanks. And what about your family?
+		- 谢谢。那你的家庭呢?
+			- [[Thanks]]
+				- 在本情境中出现的两次"Thanks"都是对于别人赞美的回应。 称赞对方，或对方的家人，是美国人很重要的一种社交习惯，被人称赞时，要表示乐于接受并愉快地感谢，不要急于否认或自贬，也不 要表现得扭捏不安。所以无论是人家说你的英语好--"Your English is very good."，还是称赞你的夫人很漂亮--"Oh, she's very pretty."，都不必不好意思，只要说声 "Thank you" 就可以了。
+			- [[what about]]
+				- What about...在这里用以询问别人的情况，相当于 Tell me about...
+					- [[Tell me about]]
+		- **Alexandra:** They're in Thessaloniki. That's a large city in northern Greece. But now I'm living in the Bronx.
+		- 他们住在Thessaloniki。那是希腊北部的一个大城市。但现在我住在Bronx。
+			- [[be in]]
+				- [[live in]]
+					- 住在
+			- [[Thessaloniki]]
+			- [[northern]]
+			- [[Bronx]]
+				- 是纽约市的五个行政区之一。另外的四个如下:
+				- Manhattan, Brooklyn, Queens, Staten Island
+		- **Richard:** With a Greek-American family?
+			- [[Greek-American]]
+				- [[Greek]]
+					- [[Greece]]
+				- [[American]]
+		- 跟希裔美国家庭住吗?
+		- **Alexandra:** No. Hispanic.
+		- 不是,是西班牙语裔家庭。
+			- [[Hispanic]] #[[unfamiliar]]
+				- 意思是西班牙语系的，西班牙的。Alexandra 和一个讲西班牙语的家庭一起生活。
+		- **Richard:** Oh no! It's five thirty. Will you excuse me? I have to meet my wife.
+		- 哎呀,已经五点半了。我失陪了。我得去接我太太。
+			- [[five thirty]]
+				- [[six o'clock]]
+				- [[ten after six]]
+			- [[Will you excuse me? ]]
+			- [[has to]]
+		- **Alexandra:** It was nice meeting you.
+		- 非常高兴遇见你。
+			- [[It was nice meeting sb.]]
+				- [[It was a pleasure meeting you]]
+				- [[It was nice to meet sb.]]
+		- **Richard:** It was a pleasure meeting you, too. Thanks for your help. And good luck! I've got to go. By the way. I'm Richard. What's your name?
+		- 我也很高兴碰到你。谢谢你的帮助。祝你好运，我得走了。噢,我忘了说,我叫Richard。你呢?
+			- [[pleasure]]
+			- [[It was a pleasure meeting you]]
+				- [[It was nice meeting sb.]]
+				- It was nice meeting you. / It was a pleasure meeting you.
+				- 很高兴认识你。与新朋友第一次见面时可用此用语告别。
+			- [[Thanks for your help]]
+			- [[Good luck]]
+			- [[I've got to]]
+				- [[I've got to go]]
+				- 这句表达的意思是“我必须得走了”，与 I must go, I must be off 之类的告别语同义。
+			- [[By the way]]
+				- 此短语在转换话题或者作补充说明时用，相当于汉语中的“顺便说一下......” 。
+		- **Alexandra:** Alexandra.
+		- Alexandra。
+		- **Richard:** Bye-bye, Alexandra.Thanks.
+		- 再见,Alexandra。谢谢。
+			- [[Bye-bye]]
+		- **Alexandra:** Bye-bye. Richard! Richard! You left your bag.
+		- 再见,Richard ！Richard！你掉了一个旅行袋！
+	- ## [[参考链接]]
+		- [1] [《走遍美国Family Album USA》01 46 Linden Street 林登大街46号 ACT 1_哔哩哔哩_bilibili - https://www.bilibili.com/video/BV1hJ411D7D7?p=1](https://www.bilibili.com/video/BV1hJ411D7D7?p=1)
+		- [2] [走遍美国:第1集 Linden Street 林登大街46号 ACT I_品牌英语听力 - 可可英语 - http://www.kekenet.com/Article/200510/1415.shtml](http://www.kekenet.com/Article/200510/1415.shtml)

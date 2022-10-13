@@ -1,0 +1,43 @@
+
+# Logseq 第一次试用记录以及发布 Logseq 到网页 | Verne in GitHub
+# https://blog.einverne.info/post/2022/01/logseq-usage.html
+
+name: Deploy
+
+# Controls when the workflow will run
+on:
+  push:
+    branches: [master]
+
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+# A workflow run is made up of one or more jobs that can run sequentially or in parallel
+jobs:
+  # This workflow contains a single job called "build"
+  build:
+    # The type of runner that the job will run on
+    runs-on: ubuntu-latest
+
+    # pengx17/logseq-publish: Logseq Publish Action
+    # https://github.com/pengx17/logseq-publish
+    steps:
+      - uses: actions/checkout@v2
+      - name: Logseq Publish 🚩
+        uses: pengx17/logseq-publish@v0.1
+      - name: add a nojekyll file # to make sure asset paths are correctly identified
+        run: touch $GITHUB_WORKSPACE/www/.nojekyll
+      - name: add a CNAME file
+        run: echo "logseq.cloudolife.cn" > $GITHUB_WORKSPACE/www/CNAME
+      - name: Deploy 🚀
+        uses: JamesIves/github-pages-deploy-action@4.1.9
+        with:
+          branch: gh-pages # The branch the action should deploy to.
+          folder: www # The folder the action should deploy.
+          clean: true
+
+# cpina/github-action-push-to-another-repository: github Action to push files into another Github repository
+# https://github.com/cpina/github-action-push-to-another-repository
+
+# git - How to push to another repository in github actions? - Stack Overflow
+# https://stackoverflow.com/questions/64374179/how-to-push-to-another-repository-in-github-actions
