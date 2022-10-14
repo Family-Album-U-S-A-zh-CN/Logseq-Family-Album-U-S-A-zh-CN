@@ -101,7 +101,10 @@ who:: [[Richard Stewart]] [[Alexandra Papas]] [[Marilyn Stewart]]
 			- [[don't you]]
 				- [[反问]]
 		- I think it looks terrific on you. 我觉得你穿上它好极了
+			- [[suit sb. well]]
+				-
 			- [[Terrific]]
+				- [[it looks terrific on ...]]
 				- 我觉得你穿上它好极了。美国人在赞美别人的时候，喜欢用一些比较夸张的形容词。像在本情境中，女性顾客试穿了一件绿色的毛衣， 她对 Marilyn 说"I like the color on me, don't you?"(我觉得我穿这颜色不错，你说呢?)Myrilyn 用了这个"terrific"，来赞美她 穿这件衣服看起来“好极了，棒极了，简直没治了”。
 		- I'm sorry I'm so late. 对不起我迟到这么久。
 			- [[I'm sorry I'm so late]]

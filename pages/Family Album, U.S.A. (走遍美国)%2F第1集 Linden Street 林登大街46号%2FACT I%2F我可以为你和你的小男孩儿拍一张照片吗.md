@@ -1,0 +1,333 @@
+tags:: [[Family Album, U.S.A. (走遍美国)]]
+title:: Family Album, U.S.A. (走遍美国)/第1集 Linden Street 林登大街46号/ACT I/我可以为你和你的小男孩儿拍一张照片吗
+who:: [[Richard Stewart]] [[Martha Vann]] [[Gerald Vann]] [[Alexandra Papas]]
+where:: [[New York Harbor]]
+
+-
+- {{renderer :tocgen}}
+-
+- _Richard Stewart is a Photographer. In act I he takes a picture of New York City on a Staten Island Ferry. Richard meets Alexandra Pappas. Alexandra is from Greece and she is an exchange student. Richard shows Alexandra some pictures for Family Album, U.S.A._
+	- [[New York City (NYC)]]
+	- [[Staten Island Ferry]]
+	- [[Family Album, U.S.A.]]
+- _Later, Richard leaves quickly and he forgets something. Let's find out what Richard forgets from_
+	- [[find out]]
+- # May I take a picture of you and your little boy? 我可以为你和你的小男孩儿拍一张照片吗？
+	- ## [[视频]]
+		- ### [[ACE走遍美国精讲课]] [[哔哩哔哩]]
+			- [[中英双语]][[精讲]]
+			- <iframe src="https://player.bilibili.com/player.html?aid=248383127&bvid=BV18v411V77d&cid=349944942&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" height="480px"> </iframe>
+		-
+		- [[走遍美国Family Album USA【全集高清】]] [[哔哩哔哩]]
+			- [[中英双语]][[精讲]]
+			- <iframe src="https://player.bilibili.com/player.html?aid=75703520&bvid=BV1hJ411D7D7&cid=129495888&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" height="480px"> </iframe>
+	- ## [[音频]]
+	  collapsed:: true
+		- ### [[英文原声]]
+			- <audio src="http://k6.kekenet.com/Sound/Article/kekenetalbum/u0101.mp3" id="myaudio" controls="" preload="auto">no support!</audio>
+	- ## [[文字]]
+		- (Thirty-year-old Richard Stewart is on a ferryboat in New York Harbor. He is taking pictures against the background of New York Harbor and the Statue of Liberty.)
+			- [[n-year-old]]
+				- [[Thirty-year-old]]
+			- [[ferryboat]]
+			- [[New York Harbor]]
+				- 纽约港
+				- [[harbor]]
+			- [[take pictures]]
+			- [[against]]
+			- [[Statue of Liberty]]
+				- 自由女神像
+				- [[Statue]]
+				- [[Liberty]]
+		- **Richard:** Excuse me. My name is Richard Stewart. I'm a photographer. May I take a picture of you and your little boy?
+		- 对不起，我叫Richard Stewart。我是一位摄影师。我可以为你和你的小男孩儿拍一张照片吗？
+			- [[Excuse me]]
+				- 这是 Richard 在与陌生人搭讪并介绍自己。
+				- Excuse me 这个短语用来引起对方的注意。相当于汉语的“对不起，劳驾”。
+				- 六种常用用法：
+					- 有礼貌的引起注意
+					- 打断对方说话而抱歉 Excuse me interrupting
+					- 离开或停止与其交谈
+					- 借过，对不起，劳驾
+					- 为失礼而道歉
+					- 请再说一遍，相当于 [[Sorry, I beg your pardon]]
+				- [[Excuse]]
+					- 名词：**英 [ɪkˈskjuːs] 美 [ɪkˈskjuːs]**。借口。
+						- Do not find excuses for your fault.
+					- 动词：**英 [ɪkˈskjuːz] 美 [ɪkˈskjuːz]**。
+						- [[Excuse for messy]]
+			- [[My name is ...]]
+				- 我的名字是...
+				- [[发音连读]] [my nay•miz]
+				- [[I'm ...]]
+					- 我是...
+			- [[Richard Stewart]]
+			- [[photographer]]
+				- UK /fəˈtɒɡ.rə.fər/
+					- <audio controls="" preload="none" controlslist="nodownload" class="i-amphtml-fill-content">
+					                                      
+					                                      <source type="audio/mpeg" src="https://dictionary.cambridge.org/media/%E8%8B%B1%E8%AF%AD/uk_pron/u/ukp/ukpho/ukphone027.mp3">
+					                                      <source type="audio/ogg" src="https://dictionary.cambridge.org/zhs/media/%E8%8B%B1%E8%AF%AD/uk_pron_ogg/u/ukp/ukpho/ukphone027.ogg">
+					                                  </audio>
+				- US /fəˈtɑː.ɡrə.fɚ/
+					- <audio controls="" preload="none" controlslist="nodownload" class="i-amphtml-fill-content">
+					                                      <source type="audio/mpeg" src="https://dictionary.cambridge.org/zhs/media/%E8%8B%B1%E8%AF%AD/us_pron/p/pho/photo/photographer.mp3">
+					                                      <source type="audio/ogg" src="https://dictionary.cambridge.org/zhs/media/%E8%8B%B1%E8%AF%AD/us_pron/p/pho/photo/photographer.ogg">
+					                                  </audio>
+				- [PHOTOGRAPHER的英语发音 - https://dictionary.cambridge.org/zhs/%E5%8F%91%E9%9F%B3/%E8%8B%B1%E8%AF%AD/photographer](https://dictionary.cambridge.org/zhs/%E5%8F%91%E9%9F%B3/%E8%8B%B1%E8%AF%AD/photographer)
+					- [[photograph]] 照片，同 [[photo]]
+			- Excuse me. My name is .... I'm a/an .... May I ...
+			- 自我介绍时可以先介绍自己的名字，再说明自己的职业。
+			- 介绍自己的名字时，可以像 Richard 一样，说 My name is Richard Stewart.
+			- 也可以像 Mrs. Vann 那样，说 I'm Martha Vann.
+			- 或者直接说出姓名 Alexadra.
+			- [[I'm a/an ...]]
+				- 我是一名...
+			- [[May I]]
+				- May I...是一种很礼貌的征求别人的同意的说法，相当于“我可以...吗?”。
+				- Richard 想要为 Mrs. Vann 母子拍照片，他首先要征得当事人的同意，否则闹出肖像权的问题可不是好玩滴~~
+			- [[take a picture]]
+				- [[take one's picture]]
+				- [[take a picture of sb.]]
+				- [[take a picture for sb.]]
+				- photo 一般指人物照片或相片，picture 指图片或图像，范围更广，不限于人物和风景照片。
+					- [[Picture]]
+				- [[photo]]
+					- [[take one's photo]]
+					- [[拍照片]]
+					- [[take a photo for/of/with ...]] 介词用法
+						- [[take a photo of sb.]] 给某人拍照
+							- [[Can you take a photo of me]] 你能给我拍照吗？
+						- [[Can you take a photo for us]] 你能为我们拍照吗？
+						- [[take a photo with sb.]]
+							- [[Can I take a photo with you]] 我可以和你合影吗？
+					- [[看电影]]
+						- [[go to a/the cinema]] 或直接写出影院的名字，比如 go toGrand Theatre
+							- [[cinema]]
+						- [[英式英语]] [[go to the pictures]]
+						- [[美式英语]] [[go to movies]]
+		- **Mrs.Vann:** What's it for?
+		- 做什么用？
+			- [[Mrs]]
+			- [[Martha Vann]]
+			- [[What's it for ...]]
+			- [[what for ...]] 为什么，等同 [[why]]，比 [[for what]] 正规，后者很少见
+		- **Richard:** It's for a book.
+		- 是为一本书拍的。
+			- [[It's for ...]]
+				- [[What's it for ...]]
+			- [[It's worth ...]]
+				- It's worth reading a second time.
+					- [[a second time]]
+			- [[book]]
+				- [[a best seller]] 畅销书，等同 [[It's a good read]]
+					- [[seller]]
+				- 动词: [[book a  sth.]] 预订...
+					- book a room/ticket
+		- **Mrs.Vann:** You're writing a book?
+		- 你在写一本书吗?
+		- **Richard:** It's a book of pictures. I call it Family Album, U.S.A.
+		- 这是一本摄影集。我称之为“走遍美国”。
+			- [[call it Family Album]]
+				- [[call]]
+					- [[call A B]] 把 A 称为 B
+						- [[call it sth.]]
+					- [[call in sick]] 请病假
+					- [[call sb. names]] 骂人。注意 names 是复数。
+						- [[call his names]] 骂他
+				- [[Family Album, U.S.A.]]
+					- [[Family]]
+					- [[Album]]
+						- [[相册]]
+					- [[U.S.A.]]
+		- **Mrs.Vann:** Oh, that's a nice idea. Well, it's fine if you take our picture. I'm Martha Vann. (She shakes Richard's hand.)
+		- 噢,这想法不错。你想为我们拍照就请吧。我叫Martha Vann。
+			- [[that's a nice idea]]
+				- [[Good idea]]
+				- [[That's a good/excellent/wonderful/marvelous/brilliant idea.]]
+					- [[nice]]
+					- [[good]]
+					- [[excellent]]
+					- [[wonderful]]
+					- [[marvelous]]
+					- [[brilliant]]
+			- [[It's fine]]
+				- [[Everything is gonna be fine/Ok]]
+					- 在情况不佳的情况下安慰
+			- [[Martha Vann]]
+			- [[shake one's hand]] 和某人握手
+				- 男女见面，握手一般要等女士先伸出手。
+		- **Richard:** Thank you. I appreciate your help. I'm Richard. What's your name?
+		- 谢谢。很感谢你的帮助。我是Richard，你叫什么？
+			- [[Thank you. I appreciate your help]]
+			- [[appreciate]]
+			- [[I appreciate your help]]
+			- [[I really appreciate your help]]
+				- [[appreciate]]
+					- [[depreciate]]
+					- 欣赏。appreciate nature/music/food.
+						- [[nature]]
+						- [[music]]
+						- [[food]]
+					- 感激
+				- [[I really appreciate it]]
+				- [[I appreciate it]]
+				- [[I'm grateful for it]]
+					- [[grateful]]
+				- 这是在受别人帮助或听了别人的忠告之后的感谢语。在 Richard 向 Mrs. Vann 说明了照片的用途后，Mrs. Vann 欣然接受拍照的请求， 之后 Richard 立即向对方表达了感谢。这里也可以说 I really appreciate it.
+			- [[What's your name]]
+				- [[I'm a/an ...]]
+		- **Gerald:** Gerald.
+		- Gerald。
+			- [[Gerald]]
+		- **Richard:** How old are you, Gerald?
+		- 你今年多大？
+			- [[How old are you]]
+		- **Gerald:** Five.
+		- 五岁。
+			- when I was a boy of fifteen ... 当我还是一个 15 岁小男孩时...，相当于 when i was a 15 year old boy
+		- **Richard:** And where do you live?
+		- 你们住哪？
+			- [[Where do you live]]
+				- [[live in]]
+				- [[be in]]
+			- [[do you]]
+				- [[发音连读]]
+		- **Mrs.Vann:** We live in California.
+		- 我们住在加利福尼亚州 。
+			- [[live in]]
+				- [[一般现在时]] 表示一直居住在...
+				- [[be in]]
+				- [[live]]
+					- 做形容词、副词的时候读[laiv]
+						- a live TV show.
+						- a live animal
+					- 做动词的时候读[liv]
+						- live in fear/terror
+							- [[fear]]
+							- [[terror]]
+						- live in guilty
+							- [[guilty]]
+				- [[be living in]] [[现在进行时]] 表示现在居住在...。以前或者以后不一定居住在...
+			- [[California]]
+		- **Richard:** Well, welcome to New York. OK, just a second. I'm almost ready here. (He tries to hold a reflector while taking the picture.)
+		- 噢，欢迎你们到纽约来。好了，请稍等一下。我快要准备好了。
+			- [[Welcome to sth.]]
+				- Welcome to... 是迎接客人的客套语。Richard 与 Mrs. Vann 母子攀谈几句后得知母子二人来自于 California，于是 Richard 对他们 说，欢迎到纽约来。
+				- 又例如: Welcome to HJ English.
+				- [[Welcome home]]
+				- [[Welcome back]]
+					- [[Welcome]]
+			- [[New York]]
+				- [[The big Apple]] 大苹果，纽约别称
+			- [[just a second]] / [[wait a second]]
+			- [[just a sec.]] / [[wait a sec.]]
+			- [[just a minute]] / [[wait a minute]]
+				- [[minute]]
+			- [[just a moment]] / [[wait a moment]]
+				- [[moment]]
+			- [[just (wait) a sec./minute/moment]]
+			- [[I'm almost ready here]]
+				- [[I'm ready]]
+				- [[almost]]
+				- [[ready]]
+			- [[reflector]]
+				- 反光板
+		- (Alexandra, 16, walks towards Richard.)
+			- [[walk towards ...]]
+		- **Alexadra:** Can I help you?
+		- 我能帮你忙吗？
+			- [[Alexandra Papas]]
+			- [[Can I help you]]
+				- 在为别人提供帮助前，我们可以说 Can I help you?
+				- 也可以说 Let me...(让我，允许我)，如本文中，Richard 对 Alexandra 说"Hey, let me take your picture!" 但是这种说法没有 Can I...的礼貌程度高。
+					- [[Let me]]
+						- [[发音连读]] t 失去爆破音。发音为 [le me]
+				- 如果我们愿意接受帮助，则可以回答"Oh, please." 或者"Yes, please."。也可以像 Alexandra 那样很可爱的讲"Wonderful. Please."
+					- [[Oh, please]]
+					- [[Yes, please]]
+					- [[Wonderful. Please]]
+						- [[Wonderful]]
+					- [[have ever]]
+						- 生命中最...
+						- the best sth. I have ever have/eat/see
+			- [[Can you help me]]
+				- [[Can you do sb. a favor]]
+					- [[Can you do me a favor]]
+					- [[favor]]
+				- [[Just give sb. a hand]]
+					- [[Just give me a hand]] 一般用于请亲人朋友帮忙
+		- **Richard:** Oh, please. Hold Gerald's hand, please. Great! Now point to the buildings. Terrific! Give Mommy a kiss, Gerald. Nice! Thank you, Gerald. And thank you, Mrs Vann.
+		- 噢，太好了。请握住Gerald的手。很好！现在请指着那些建筑物。好极了！亲一亲妈咪，很棒！谢谢
+		- 你， Gerald。谢谢，Vann太太。
+			- [[hold one's hand]] 握住某人的手
+				- [[hold]]
+					- [[hold sb. close]] 抱紧某人
+					- [[hold on]] 别挂断，保持住
+			- [[point]]
+				- [[What's one's point]] 某人想说什么
+					- [[What's your point]] 你到底想说什么
+				- [[point out]] 指出（观点，错误）
+				- [[come to the point]] 来到主题，重点，等同 [[get to the point]]
+					- [[get straight to the point]] 直接来到主题、重点
+						- [[straight]]
+				- [[be to the point]] 切题
+				- [[A case in point is ...]] 一个恰当的例子
+					- [[case]]
+			- [[Oh, please]]
+				- [[Yes, please]]
+				- [[Wonderful. Please]]
+			- [[Great]]
+			- [[Terrific]]
+				- 可怕的
+				- 极好的
+					- [[it looks terrific on ...]] 看起来很好
+			- [[Nice]]
+				- 在拍照的过程中，Mrs.Vann 母子每在他的要求下摆一个新的姿势，Richard 都会对他们的配合给予肯定。他用到的"Great! Terrific! Nice!" 都是用来表示“太好了，好极了，很好”的意思。
+					- [[Great]]
+					- [[Terrific]]
+			- [[Mommy]]
+			- [[kiss]]
+				- [[give sb. a kiss]]
+				- [[kiss sb.]]
+				- [[blow sb a kiss]] 给某人一个飞吻
+					- [[blow]]
+				- [[kiss goodbye to ...]] 与...吻别，告别。kiss goodbye to my dream.
+					- [[goodbye]]
+		- **Mrs.Vann:** Oh, my pleasure. We'll be looking for your book.
+		- 噢，不客气。我们一定去买你的书。
+			- [[will be doing]] [[将来进行时]]
+				- 将来一定会发生的事情，非常肯定
+				- 将来正在进行的事情
+			- [[will do]] [[一般将来时]]
+				- 将要发生的事情，但不一定会发生
+			- [[look for sth.]]
+				- [[look forward to do sth.]]
+		- **Richard:** Thank you. Good-bye. Bye, Gerald. Thanks again.
+			- [[Good-bye]]
+			- [[Bye]]
+			- [[Thanks again]]
+		- 谢谢。再见。Gerald，再见。再次感谢 。
+		- **Alexandra:** Oh, you're welcome.
+		- 噢 ，请别客气。
+			- [[You're welcome]]
+				- [[My pleasure]]
+				- [[I's a pleasure]]
+				- [[You're welcome anytime]]
+				- [[Anytime]]
+				- [[It's nothing]]
+				- [[It's all right]]
+				- [[Don't mention it]]
+				- [[Not at all]]
+				- 当别人对你表示感谢时，可以用"My pleasure."或者"You're welcome."来进行回应。
+	- ## [[图片]]
+		- ![image.png](../assets/Family-Album-U.S.A./1-1-1.png)
+		- ![image.png](../assets/Family-Album-U.S.A./1-1-2.png)
+	- ## [[参考链接]]
+		- [1] [《走遍美国Family Album USA》01 46 Linden Street 林登大街46号 ACT 1_哔哩哔哩_bilibili - https://www.bilibili.com/video/BV1hJ411D7D7?p=1](https://www.bilibili.com/video/BV1hJ411D7D7?p=1)
+			- [[哔哩哔哩]]
+		- [2] [走遍美国:第1集 Linden Street 林登大街46号 ACT I_品牌英语听力 - 可可英语 - http://www.kekenet.com/Article/200510/1415.shtml](http://www.kekenet.com/Article/200510/1415.shtml)
+			- [[可可英语]]
+		- [3] [口语 | 走遍美国（Family Album U.S.A.）- 01 - https://mp.weixin.qq.com/s?__biz=MzUyNDM0ODU4MQ==&mid=2247502153&idx=7&sn=850231efd38b44b88f43d4943832241e&chksm=fa2c3483cd5bbd95f045dd7a086222e84a7387f459a867add14089219030d7f79206baffbb39&scene=21#wechat_redirect](https://mp.weixin.qq.com/s?__biz=MzUyNDM0ODU4MQ==&mid=2247502153&idx=7&sn=850231efd38b44b88f43d4943832241e&chksm=fa2c3483cd5bbd95f045dd7a086222e84a7387f459a867add14089219030d7f79206baffbb39&scene=21#wechat_redirect)
+			- [[初中英语人教版]]
+-

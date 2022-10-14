@@ -1,15 +1,33 @@
-alias:: [[Family Album, U.S.A]] [[走遍美国]]
+alias:: [[Family Album, U.S.A.]] [[走遍美国]]
 title:: Family Album, U.S.A. (走遍美国)
 
 -
 - # Family Album, U.S.A. (走遍美国)
 	- ## [[视频]]
-		- ### 中英双语教师讲解
+		- ### [[ACE走遍美国精讲课]] [[哔哩哔哩]]
+			- <iframe src="https://player.bilibili.com/player.html?aid=248383127&bvid=BV18v411V77d&cid=349944942" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" height="480px"> </iframe>
+		-
+		- [[走遍美国Family Album USA【全集高清】]] [[哔哩哔哩]]
 			- <iframe src="https://player.bilibili.com/player.html?aid=75703520&bvid=BV1hJ411D7D7&cid=129495888" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" height="480px"> </iframe>
 		-
 	-
-	- ## [[笔记]]
+	- ## [[书籍]]
 		- ![走遍美国精讲笔记pdf完整版高清重点版.pdf](../assets/走遍美国精讲笔记pdf完整版高清重点版_1665056529570_0.pdf)
+		- ![familyalbum.pdf](../assets/familyalbum_1665738065160_0.pdf)
+		- ![Family Album USA Book 1.pdf](../assets/Family_Album_USA_Book_1_1665738104265_0.pdf)
+		-
+	- ## TODO [[发音]]
+		- 美式发音和英式发音的区别
+		- 发音连读、爆破
+		- [史上最全的英语连读规则一网打尽 | CS巴别塔(1) - https://csbabel.wordpress.com/2009/09/02/english-liaison-rules/](https://csbabel.wordpress.com/2009/09/02/english-liaison-rules/)
+			- [[发音连读]]
 	-
 	- ## [[参考]]
-		- [1] [走遍美国Family Album USA【全集高清】_哔哩哔哩_bilibili - https://www.bilibili.com/video/BV1hJ411D7D7](https://www.bilibili.com/video/BV1hJ411D7D7)
+		- [1] [【汇总】走遍美国（Family Album U.S.A.）1-78集全！ - https://mp.weixin.qq.com/s/YjsvNqK23TL-x9W1KCC4BQ](https://mp.weixin.qq.com/s/YjsvNqK23TL-x9W1KCC4BQ)
+			- [[初中英语人教版]]
+		- [2] [走遍美国Family Album USA【全集高清】_哔哩哔哩_bilibili - https://www.bilibili.com/video/BV1hJ411D7D7](https://www.bilibili.com/video/BV1hJ411D7D7)
+			- [[走遍美国Family Album USA【全集高清】]][[哔哩哔哩]]
+		- [3] [ACE走遍美国精讲课 Family Album U.S.A._哔哩哔哩_bilibili - https://www.bilibili.com/video/BV18v411V77d/](https://www.bilibili.com/video/BV18v411V77d/)
+			- [[ACE走遍美国精讲课]][[哔哩哔哩]]
+		- [4] [Family Album USA - Episode 1 - 46 Linden Street | Learn English From Real English - https://www.learnrealeng.com/2014/04/family-album-usa-episode-1-46-linden.html](https://www.learnrealeng.com/2014/04/family-album-usa-episode-1-46-linden.html)
+		- [5] [走遍美国|走遍美国(MP3下载+中英字幕)|走遍美国文本 - 可可英语 - http://www.kekenet.com/Article/brand/album/](http://www.kekenet.com/Article/brand/album/)
