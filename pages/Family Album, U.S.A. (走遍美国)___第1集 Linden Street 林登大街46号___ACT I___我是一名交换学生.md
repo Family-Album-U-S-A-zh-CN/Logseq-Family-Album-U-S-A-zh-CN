@@ -1,0 +1,233 @@
+tags:: [[Family Album, U.S.A. (走遍美国)]]
+title:: Family Album, U.S.A. (走遍美国)/第1集 Linden Street 林登大街46号/ACT I/我是一名交换学生
+who:: [[Richard Stewart]] [[Alexandra Pappas]]
+where:: [[New York Harbor]]
+
+-
+- # I'm an exchange student. 我是一名交换学生.
+	- ## [[视频]]
+	  collapsed:: true
+		- ### [[ACE走遍美国精讲课]] [[哔哩哔哩]]
+			- [[中英双语]][[精讲]]
+			- <iframe src="https://player.bilibili.com/player.html?aid=248383127&bvid=BV18v411V77d&cid=349944942&page=2" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" height="480px"> </iframe>
+		-
+		- [[走遍美国Family Album USA【全集高清】]] [[哔哩哔哩]]
+			- [[中英双语]][[精讲]]
+			- <iframe src="https://player.bilibili.com/player.html?aid=75703520&bvid=BV1hJ411D7D7&cid=129495888&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" height="480px"> </iframe>
+	- ## [[音频]]
+	  collapsed:: true
+		- ### [[英文原声]]
+			- <audio src="http://k6.kekenet.com/Sound/Article/kekenetalbum/u0101.mp3" id="myaudio" controls="" preload="auto">no support!</audio>
+	- ## [[文字]]
+		- **Richard:** Hey, let me take your picture!
+		- 嘿 ，让我给你拍一张照片。
+			- [[let me]]
+				- [[发音连读]] [leme]
+			- [[take your picture]]
+				- [[take one's picture]]
+		- **Alexandra:** Wonderful. Please.
+			- [[Wonderful. Please]]
+				- [[Wonderful]]
+					- 非常棒
+					- [[in my life]]
+						- 在我人生/生命中
+						- This is the most wonderful experience in my life.
+						- the best time in my life
+					- [[have ever]]
+						- 曾经
+						- [[have ever have/eat/see ...]]
+						- This is the best movie I have ever seen. 这是我看过最好的电影。
+					- [[Great]]
+					- [[Nice]]
+		- 好啊，请。
+		- **Richard:** Are you from New York?
+		- 是从纽约来的吗？
+			- [[Are you from]]
+				- [[be from]]
+			- [[New York]]
+		- **Alexandra:** No, I'm from Greece. I'm an exchange student.
+		- 不是，我是从希腊来的。我是一名交换学生。
+			- [[I'm from]]
+				- [[be from]]
+			- [[Greece]]
+				- [[ancient Greece]]
+					- [[ancient]]
+						- [[ancient civilization]]
+							- [[civilization]]
+				- [[greek]]
+					- [[Greek mythology]]
+						- [[mythology]]
+							- [[myth]]
+					- [[It's all Greek to sb.]]
+						- 某人对这个完全或一点都不懂，一窍不通。等同于 I don't know anything about it.
+						- 还有 It's all chinese to sb..
+			- [[exchange student]]
+				- [[交换生]]
+				- [[留学生]]
+					- [[oversea student]]
+					- [[internation student]]
+					- students studying abroad
+				- [[an exchange student]]
+					- [[发音连读]] [anexchange student]
+				- [[exchange]]
+					- 一般指文化缴获，或货物交换
+					- We exchange visiting/business cards each other
+						- [[Visiting Card]]
+						- [[Business Card]]
+					- [[Cultural Exchange]]
+						- [[Culture]]
+						- a series of cultural exchanges
+							- [[a series of]]
+								- [[serie]]
+					- [[in exchange for sth.]]
+						- 作为...交换
+						- In exchange for freedom, I giv up my job.
+						- [[in return for sth.]]
+							- 作为...的回报
+						- [[in response to sth.]]
+							- 作为...回应
+					- [[communication]]
+						- 一般指人与人之间交流
+					- [[foreign exchange]]
+						- 外汇
+							- [[foreign]]
+					- [[stock exchange]]
+						- 股票交易所，证券交易所
+						- [[stock]]
+					- [[telephone exchange]]
+						- 电话交换机，总机
+						- [[operator]]
+							- 接线员
+						- [[extension]]
+							- 分机
+		- **Richard:** When did you come here?
+		- 是什么时候来这儿的？
+			- [[When did you come here]]
+				- [[come here]]
+					- [[come]]
+						- [[come on]]
+							- 加油
+							- 快点
+							- 得了吧，饶了我吧。给点力。
+						- [[how come]]
+							- 怎么会（这样）。What did it happened?
+						- [[tomorrow never come]] 遥遥无期
+						- We shall meet again some day. 后会有期，终将见面
+						- We will never meet again. 不会再见
+		- **Alexandra:** Three months ago.
+		- 三个月之前。
+			- [[ago]]
+		- **Richard:** Your English is very good.
+		- 你的英语说得很好。
+			- [[very good]]
+				- 这里 good 发音 [gd]
+			- I can speak fluent english.
+			- I can speak english fluently.
+			- [[fluent]]
+			- [[Do you speak english]]
+			- [[My english is very poor. but I'm getting better at it]]
+				- [[be good at sth.]]
+		- **Alexandra:** Thanks. I studied English in school.
+		- 谢谢夸奖。我是在学校里学的英语。
+			- [[study]]
+				- 学习
+					- study a language. 一般指在学校学习语言
+				- [[pick up]]
+					- pick up a language
+				- [[研究]]
+					- Recent studies suggest that ...
+					- [[a case study]]
+						- 个案研究，案例研究
+				- [[in one's study]]
+					- 在某人的书房
+					- The book is in my study
+			- [[in school]] / [[at school]]
+				- 在学校（学习）
+				- [[in the school]] / [[at the school]]
+					- 在学校工作。不再是学习
+					- [[the]] 冠词
+		- **Richard:** Would you like some coffee?
+		- 要不要来点咖啡？
+			- [[Would you like]]
+				- [[Would you like sth.]]
+				- [[Would you like to do]]
+				- [[Would you like sth. to do]]
+				- [[What would you like to do]]
+				- Would you like...相当于“你想要...吗?”，在客气地请对方做某事或请客时用。
+				- 语气比 want to 更为委婉。What do you want to from me?
+				- 如本文中，Richard 问 Alexandra“想来一点咖啡吗”，他说 "Would you like some coffee?"
+				- 或者  Would you like a cup of coffee/beer?
+					- [[coffee]]
+					- [[beer]]
+				- 询问别人要喝点审核
+					- Would you like something to drink?
+					- What would you want to drink? 期望别人给一个明确的回复
+				- 在谈到自己的书 Family Album, U.S.A.时，他问对方“想要看一看吗”，"Would you like to see them?" 如果我们不想接受，就说"No, thank you."
+				- 如果愿意接受，则说"Yes. I'd like that." 或者"Yes. Please."
+			- [[I'd like sth.]]
+			- [[I'd like to do]]
+			- [[What do you want from me]]
+			- [[coffee]]
+				- [[coffee beans]]
+					- 咖啡豆
+				- [[coffee break]]
+					- 咖啡歇
+					- [[tea break]]
+						- 茶歇
+				- [[coffee bar]]
+					- 咖啡吧
+					- [[cafe]]
+			- [[wicket]]
+		- **Alexandra:** No, thank you. Tell me about your book.
+		- 不了，谢谢。谈谈你的书吧。
+			- [[tell sb. about sth.]]
+				- 告诉某人关于某事
+				- [[tell sb. sth.]]
+					- 告诉某人某事
+					- [[tell you the truth]]
+			- [[tell]]
+				- [[tell a lie to me]]
+				- [[tell lies to me]]
+				- [[lie to me]]
+					- [[lie]]
+		- **Richard:** Oh, it's not finished yet, but I have some of the pictures. Would you like to see them?
+		- 噢，它尚未完成。但我手头有一些照片。要不要看一看？
+			- [[It's not finished yet]]
+				- 它尚未完成。
+				- [[finished]]
+					- [[finish]]
+					- [[I'm finished]]
+						- 我完成了
+						- [[I'm done]]
+							- 我做完了。我完蛋了。
+					- [[please let me finish]]
+						- 让我先说完
+							- [[打断]]
+						- [[hear sb. out]]
+							- [[hear]]
+					- [[finish doing sth.]]
+						- 完成做某事
+				- [[not yet]]
+					- 还没有
+					- [[yet]]
+			- [[Would you like]]
+				- [[Would you like to do]]
+				- [[Would you like sth.]]
+		- **Alexandra:** Yes, I'd like that.
+		- 要啊，我想看一看。
+			- [[I'd like that]]
+				- [[I'd like ...]]
+				- [[I'd like to do]]
+	- ## [[图片]]
+		- ![image.png](../assets/Family-Album-U.S.A./1-1-1.png)
+		- ![image.png](../assets/Family-Album-U.S.A./1-1-2.png)
+	- ## [[参考链接]]
+		- [1] [《走遍美国Family Album USA》01 46 Linden Street 林登大街46号 ACT 1_哔哩哔哩_bilibili - https://www.bilibili.com/video/BV1hJ411D7D7?p=1](https://www.bilibili.com/video/BV1hJ411D7D7?p=1)
+			- [[哔哩哔哩]]
+		- [2] [走遍美国:第1集 Linden Street 林登大街46号 ACT I_品牌英语听力 - 可可英语 - http://www.kekenet.com/Article/200510/1415.shtml](http://www.kekenet.com/Article/200510/1415.shtml)
+			- [[可可英语]]
+		- [3] [口语 | 走遍美国（Family Album U.S.A.）- 01 - https://mp.weixin.qq.com/s?__biz=MzUyNDM0ODU4MQ==&mid=2247502153&idx=7&sn=850231efd38b44b88f43d4943832241e&chksm=fa2c3483cd5bbd95f045dd7a086222e84a7387f459a867add14089219030d7f79206baffbb39&scene=21#wechat_redirect](https://mp.weixin.qq.com/s?__biz=MzUyNDM0ODU4MQ==&mid=2247502153&idx=7&sn=850231efd38b44b88f43d4943832241e&chksm=fa2c3483cd5bbd95f045dd7a086222e84a7387f459a867add14089219030d7f79206baffbb39&scene=21#wechat_redirect)
+		- [4] [ACE走遍美国第1集第2讲_哔哩哔哩_bilibili - https://www.bilibili.com/video/BV18v411V77d?p=2](https://www.bilibili.com/video/BV18v411V77d?p=2)
+			- [[初中英语人教版]]
+-
+-

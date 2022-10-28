@@ -1,6 +1,30 @@
-[{:block/name "a",
+[{:block/name "46 linden street, riverdale, new york",
+  :block/created-at 1665740755087,
+  :block/updated-at 1665740755087}
+ {:block/name "a",
   :block/created-at 1665634506532,
   :block/updated-at 1665634506532}
+ {:block/name "a best seller",
+  :block/created-at 1665740753941,
+  :block/updated-at 1665740753941}
+ {:block/name "a case in point is ...",
+  :block/created-at 1665740754036,
+  :block/updated-at 1665740754036}
+ {:block/name "a second time",
+  :block/created-at 1665740753939,
+  :block/updated-at 1665740753939}
+ {:block/name "a whole day",
+  :block/created-at 1665740755131,
+  :block/updated-at 1665740755131}
+ {:block/name "ace走遍美国精讲课",
+  :block/created-at 1665740753885,
+  :block/updated-at 1665740753885}
+ {:block/name "afternoon",
+  :block/created-at 1665740755139,
+  :block/updated-at 1665740755139}
+ {:block/name "against",
+  :block/created-at 1665740753897,
+  :block/updated-at 1665740753897}
  {:block/name "ago",
   :block/created-at 1665634189024,
   :block/updated-at 1665634189024}
@@ -13,6 +37,12 @@
  {:block/name "alexadra papas",
   :block/created-at 1665634189095,
   :block/updated-at 1665634189095}
+ {:block/name "alexandra papas",
+  :block/created-at 1665740754014,
+  :block/updated-at 1665740754014}
+ {:block/name "almost",
+  :block/created-at 1665740754011,
+  :block/updated-at 1665740754011}
  {:block/name "ambulance",
   :block/created-at 1665634189039,
   :block/updated-at 1665634189039}
@@ -22,27 +52,84 @@
  {:block/name "american",
   :block/created-at 1665634189063,
   :block/updated-at 1665634189063}
+ {:block/name "ancient",
+  :block/created-at 1665740754611,
+  :block/updated-at 1665740754611}
+ {:block/name "ancient greece",
+  :block/created-at 1665740754612,
+  :block/updated-at 1665740754612}
+ {:block/name "anyone",
+  :block/created-at 1665740755136,
+  :block/updated-at 1665740755136}
  {:block/name "anytime",
   :block/created-at 1665634189015,
   :block/updated-at 1665634189015}
+ {:block/name "an exchange student",
+  :block/created-at 1665740754617,
+  :block/updated-at 1665740754617}
  {:block/name "appreciate",
   :block/created-at 1665634188979,
   :block/updated-at 1665634188979}
  {:block/name "are you from",
   :block/created-at 1665634189018,
   :block/updated-at 1665634189018}
+ {:block/name "a whole day's work",
+  :block/created-at 1665740755131,
+  :block/updated-at 1665740755131}
  {:block/name "b",
   :block/created-at 1665634506532,
   :block/updated-at 1665634506532}
  {:block/name "be from",
   :block/created-at 1665634189021,
   :block/updated-at 1665634189021}
+ {:block/name "be gone",
+  :block/created-at 1665740755130,
+  :block/updated-at 1665740755130}
  {:block/name "be in",
   :block/created-at 1665634189056,
   :block/updated-at 1665634189056}
+ {:block/name "be late",
+  :block/created-at 1665740755124,
+  :block/updated-at 1665740755124}
+ {:block/name "be late for sth.",
+  :block/created-at 1665740755116,
+  :block/updated-at 1665740755116}
+ {:block/name "be living in",
+  :block/created-at 1665740753993,
+  :block/updated-at 1665740753993}
+ {:block/name "be that way",
+  :block/created-at 1665740755093,
+  :block/updated-at 1665740755093}
+ {:block/name "be to the point",
+  :block/created-at 1665740754035,
+  :block/updated-at 1665740754035}
+ {:block/name "beer",
+  :block/created-at 1665740754635,
+  :block/updated-at 1665740754635}
+ {:block/name "blow",
+  :block/created-at 1665740754048,
+  :block/updated-at 1665740754048}
+ {:block/name "blow sb a kiss",
+  :block/created-at 1665740754048,
+  :block/updated-at 1665740754048}
+ {:block/name "book",
+  :block/created-at 1665740753940,
+  :block/updated-at 1665740753940}
+ {:block/name "book a  sth.",
+  :block/created-at 1665740753943,
+  :block/updated-at 1665740753943}
+ {:block/name "bright",
+  :block/created-at 1665740755103,
+  :block/updated-at 1665740755103}
+ {:block/name "brilliant",
+  :block/created-at 1665740753963,
+  :block/updated-at 1665740753963}
  {:block/name "bronx",
   :block/created-at 1665634189059,
   :block/updated-at 1665634189059}
+ {:block/name "brooklyn",
+  :block/created-at 1665740754675,
+  :block/updated-at 1665740754675}
  {:block/name "by the way",
   :block/created-at 1665634189081,
   :block/updated-at 1665634189081}
@@ -58,48 +145,171 @@
  {:block/name "california",
   :block/created-at 1665634188990,
   :block/updated-at 1665634188990}
+ {:block/name "call",
+  :block/created-at 1665740753945,
+  :block/updated-at 1665740753945}
+ {:block/name "call a b",
+  :block/created-at 1665740753946,
+  :block/updated-at 1665740753946}
+ {:block/name "call his names",
+  :block/created-at 1665740753950,
+  :block/updated-at 1665740753950}
+ {:block/name "call in sick",
+  :block/created-at 1665740753947,
+  :block/updated-at 1665740753947}
  {:block/name "call it sth.",
   :block/created-at 1665634188970,
   :block/updated-at 1665634188970}
+ {:block/name "call sb. names",
+  :block/created-at 1665740753948,
+  :block/updated-at 1665740753948}
  {:block/name "call it family album",
   :block/created-at 1665634188969,
   :block/updated-at 1665634188969}
+ {:block/name "camera",
+  :block/created-at 1665740755137,
+  :block/updated-at 1665740755137}
  {:block/name "can i help you",
   :block/created-at 1665634188996,
   :block/updated-at 1665634188996}
+ {:block/name "can i take a photo with you",
+  :block/created-at 1665740753925,
+  :block/updated-at 1665740753925}
+ {:block/name "can you do me a favor",
+  :block/created-at 1665740754023,
+  :block/updated-at 1665740754023}
+ {:block/name "can you do sb. a favor",
+  :block/created-at 1665740754022,
+  :block/updated-at 1665740754022}
+ {:block/name "can you help me",
+  :block/created-at 1665740754021,
+  :block/updated-at 1665740754021}
+ {:block/name "can you take a photo for us",
+  :block/created-at 1665740753924,
+  :block/updated-at 1665740753924}
+ {:block/name "can you take a photo of me",
+  :block/created-at 1665740753923,
+  :block/updated-at 1665740753923}
+ {:block/name "can you tell me how to get to sth.",
+  :block/created-at 1665740755084,
+  :block/updated-at 1665740755084}
  {:block/name "canceled",
   :block/created-at 1665634506532,
   :block/updated-at 1665634506532}
  {:block/name "cancelled",
   :block/created-at 1665634506532,
   :block/updated-at 1665634506532}
+ {:block/name "canvas",
+  :block/created-at 1665740755140,
+  :block/updated-at 1665740755140}
+ {:block/name "can you tell me ...",
+  :block/created-at 1665740755083,
+  :block/updated-at 1665740755083}
  {:block/name "card",
   :block/created-at 1665634506532,
   :block/updated-at 1665634506532}
+ {:block/name "case",
+  :block/created-at 1665740754037,
+  :block/updated-at 1665740754037}
+ {:block/name "cinema",
+  :block/created-at 1665740753929,
+  :block/updated-at 1665740753929}
+ {:block/name "coffee",
+  :block/created-at 1665740754634,
+  :block/updated-at 1665740754634}
+ {:block/name "come",
+  :block/created-at 1665740754625,
+  :block/updated-at 1665740754625}
  {:block/name "come here",
   :block/created-at 1665634189023,
   :block/updated-at 1665634189023}
+ {:block/name "come to the point",
+  :block/created-at 1665740754033,
+  :block/updated-at 1665740754033}
+ {:block/name "communication",
+  :block/created-at 1665740754619,
+  :block/updated-at 1665740754619}
  {:block/name "contents",
   :block/created-at 1665634506532,
   :block/updated-at 1665642569961}
+ {:block/name "depreciate",
+  :block/created-at 1665740753972,
+  :block/updated-at 1665740753972}
+ {:block/name "do you",
+  :block/created-at 1665740753984,
+  :block/updated-at 1665740753984}
  {:block/name "doing",
   :block/created-at 1665634506532,
   :block/updated-at 1665634506532}
+ {:block/name "don't mention it",
+  :block/created-at 1665740754064,
+  :block/updated-at 1665740754064}
+ {:block/name "don't worry",
+  :block/created-at 1665740755114,
+  :block/updated-at 1665740755114}
+ {:block/name "don't worry about ...",
+  :block/created-at 1665740755114,
+  :block/updated-at 1665740755114}
+ {:block/name "don't you",
+  :block/created-at 1665740755118,
+  :block/updated-at 1665740755118}
  {:block/name "done",
   :block/created-at 1665634506532,
   :block/updated-at 1665634506532}
+ {:block/name "downtown",
+  :block/created-at 1665740755099,
+  :block/updated-at 1665740755099}
  {:block/name "driver",
   :block/created-at 1665634189040,
   :block/updated-at 1665634189040}
+ {:block/name "everything is gonna be fine",
+  :block/created-at 1665740753966,
+  :block/updated-at 1665740753966}
+ {:block/name "everything is gonna be fine/ok",
+  :block/created-at 1665740753965,
+  :block/updated-at 1665740753965}
+ {:block/name "excellent",
+  :block/created-at 1665740753961,
+  :block/updated-at 1665740753961}
+ {:block/name "exchange",
+  :block/created-at 1665740754619,
+  :block/updated-at 1665740754619}
+ {:block/name "exchange student",
+  :block/created-at 1665740754615,
+  :block/updated-at 1665740754615}
+ {:block/name "excuse",
+  :block/created-at 1665740753902,
+  :block/updated-at 1665740753902}
+ {:block/name "excuse for messy",
+  :block/created-at 1665740753903,
+  :block/updated-at 1665740753903}
  {:block/name "excuse me",
   :block/created-at 1665634188942,
   :block/updated-at 1665634188942}
+ {:block/name "excuse me, officer. can you help me",
+  :block/created-at 1665740755081,
+  :block/updated-at 1665740755081}
+ {:block/name "excuse me",
+  :block/created-at 1665740755081,
+  :block/updated-at 1665740755081}
+ {:block/name "expect",
+  :block/created-at 1665740755113,
+  :block/updated-at 1665740755113}
+ {:block/name "expect sb. here",
+  :block/created-at 1665740755112,
+  :block/updated-at 1665740755112}
+ {:block/name "extension",
+  :block/created-at 1665740754622,
+  :block/updated-at 1665740754622}
  {:block/name "family",
   :block/created-at 1665634188972,
   :block/updated-at 1665634188972}
  {:block/name "family album, u.s.a",
   :block/created-at 1665634188971,
   :block/updated-at 1665634188971}
+ {:block/name "family album, u.s.a.",
+  :block/created-at 1665740753951,
+  :block/updated-at 1665740753951}
  {:block/name "family album, u.s.a. (走遍美国)",
   :block/created-at 1665634189091,
   :block/updated-at 1665634189091}
@@ -110,36 +320,120 @@
   "family album, u.s.a. (走遍美国)/第1集 linden street 林登大街46号/act i",
   :block/created-at 1665634189100,
   :block/updated-at 1665634189100}
+ {:block/name
+  "family album, u.s.a. (走遍美国)/第1集 linden street 林登大街46号/act i/我可以为你和你的小男孩儿拍一张照片吗",
+  :block/created-at 1665740754082,
+  :block/updated-at 1665740754082}
+ {:block/name
+  "family album, u.s.a. (走遍美国)/第1集 linden street 林登大街46号/act i/我是一名交换学生",
+  :block/created-at 1665740754725,
+  :block/updated-at 1665740754725}
+ {:block/name "family album, u.s.a. (走遍美国)/第2集 linden street 林登大街46号",
+  :block/created-at 1665740755156,
+  :block/updated-at 1665740755156}
+ {:block/name
+  "family album, u.s.a. (走遍美国)/第2集 linden street 林登大街46号/act ii",
+  :block/created-at 1665740755154,
+  :block/updated-at 1665740755154}
+ {:block/name "favor",
+  :block/created-at 1665740754025,
+  :block/updated-at 1665740754025}
  {:block/name "favorites",
   :block/created-at 1665634506532,
   :block/updated-at 1665634506532}
+ {:block/name "fear",
+  :block/created-at 1665740753990,
+  :block/updated-at 1665740753990}
+ {:block/name "ferry",
+  :block/created-at 1665740755143,
+  :block/updated-at 1665740755143}
+ {:block/name "ferryboat",
+  :block/created-at 1665740753894,
+  :block/updated-at 1665740753894}
+ {:block/name "find out",
+  :block/created-at 1665740753883,
+  :block/updated-at 1665740753883}
+ {:block/name "five forty-five",
+  :block/created-at 1665740755111,
+  :block/updated-at 1665740755111}
  {:block/name "five thirty",
   :block/created-at 1665634189065,
   :block/updated-at 1665634189065}
  {:block/name "florida",
   :block/created-at 1665634189051,
   :block/updated-at 1665634189051}
+ {:block/name "food",
+  :block/created-at 1665740753974,
+  :block/updated-at 1665740753974}
+ {:block/name "for what",
+  :block/created-at 1665740753935,
+  :block/updated-at 1665740753935}
+ {:block/name "foreign exchange",
+  :block/created-at 1665740754620,
+  :block/updated-at 1665740754620}
  {:block/name "gerald",
   :block/created-at 1665634188983,
   :block/updated-at 1665634188983}
  {:block/name "gerald vann",
   :block/created-at 1665634189093,
   :block/updated-at 1665634189093}
+ {:block/name "get straight to the point",
+  :block/created-at 1665740754034,
+  :block/updated-at 1665740754034}
+ {:block/name "get to the point",
+  :block/created-at 1665740754032,
+  :block/updated-at 1665740754032}
+ {:block/name "give sb. a kiss",
+  :block/created-at 1665740754046,
+  :block/updated-at 1665740754046}
+ {:block/name "go back",
+  :block/created-at 1665740755129,
+  :block/updated-at 1665740755129}
+ {:block/name "go to high school",
+  :block/created-at 1665740754654,
+  :block/updated-at 1665740754654}
+ {:block/name "go to movies",
+  :block/created-at 1665740753931,
+  :block/updated-at 1665740753931}
  {:block/name "go to school",
   :block/created-at 1665634189048,
   :block/updated-at 1665634189048}
+ {:block/name "go to the pictures",
+  :block/created-at 1665740753929,
+  :block/updated-at 1665740753929}
+ {:block/name "good",
+  :block/created-at 1665740753960,
+  :block/updated-at 1665740753960}
+ {:block/name "good idea",
+  :block/created-at 1665740753955,
+  :block/updated-at 1665740753955}
  {:block/name "good-bye",
   :block/created-at 1665634189009,
   :block/updated-at 1665634189009}
+ {:block/name "good-bye and good luck",
+  :block/created-at 1665740754704,
+  :block/updated-at 1665740754704}
+ {:block/name "goodbye",
+  :block/created-at 1665740754050,
+  :block/updated-at 1665740754050}
  {:block/name "good luck",
   :block/created-at 1665634189079,
   :block/updated-at 1665634189079}
+ {:block/name "go to a",
+  :block/created-at 1665740753928,
+  :block/updated-at 1665740753928}
+ {:block/name "go to a/the cinema",
+  :block/created-at 1665740753927,
+  :block/updated-at 1665740753927}
  {:block/name "grandfather",
   :block/created-at 1665634189050,
   :block/updated-at 1665634189050}
  {:block/name "grapher",
   :block/created-at 1665634188950,
   :block/updated-at 1665634188950}
+ {:block/name "grateful",
+  :block/created-at 1665740753977,
+  :block/updated-at 1665740753977}
  {:block/name "great",
   :block/created-at 1665634189002,
   :block/updated-at 1665634189002}
@@ -149,27 +443,78 @@
  {:block/name "greek",
   :block/created-at 1665634189061,
   :block/updated-at 1665634189061}
+ {:block/name "greek mythology",
+  :block/created-at 1665740754613,
+  :block/updated-at 1665740754613}
  {:block/name "greek-american",
   :block/created-at 1665634189060,
   :block/updated-at 1665634189060}
+ {:block/name "guilty",
+  :block/created-at 1665740753992,
+  :block/updated-at 1665740753992}
+ {:block/name "harbor",
+  :block/created-at 1665740753895,
+  :block/updated-at 1665740753895}
  {:block/name "has to",
   :block/created-at 1665634189069,
   :block/updated-at 1665634189069}
+ {:block/name "have ever",
+  :block/created-at 1665740754020,
+  :block/updated-at 1665740754020}
+ {:block/name "heavy",
+  :block/created-at 1665740755115,
+  :block/updated-at 1665740755115}
  {:block/name "here it is",
   :block/created-at 1665634189045,
   :block/updated-at 1665634189045}
+ {:block/name "here you are",
+  :block/created-at 1665740754651,
+  :block/updated-at 1665740754651}
  {:block/name "here's",
   :block/created-at 1665634189049,
   :block/updated-at 1665634189049}
  {:block/name "here they are",
   :block/created-at 1665634189044,
   :block/updated-at 1665634189044}
+ {:block/name "high school",
+  :block/created-at 1665740754655,
+  :block/updated-at 1665740754655}
  {:block/name "hispanic",
   :block/created-at 1665634189064,
   :block/updated-at 1665634189064}
+ {:block/name "hold",
+  :block/created-at 1665740754028,
+  :block/updated-at 1665740754028}
+ {:block/name "hold on",
+  :block/created-at 1665740754029,
+  :block/updated-at 1665740754029}
+ {:block/name "hold one's hand",
+  :block/created-at 1665740754027,
+  :block/updated-at 1665740754027}
+ {:block/name "hold sb. close",
+  :block/created-at 1665740754029,
+  :block/updated-at 1665740754029}
+ {:block/name "how about ...",
+  :block/created-at 1665740755106,
+  :block/updated-at 1665740755106}
+ {:block/name "how come",
+  :block/created-at 1665740754626,
+  :block/updated-at 1665740754626}
+ {:block/name "how to get to ...",
+  :block/created-at 1665740755085,
+  :block/updated-at 1665740755085}
  {:block/name "how old are you",
   :block/created-at 1665634188984,
   :block/updated-at 1665634188984}
+ {:block/name "i had a really bad day",
+  :block/created-at 1665740755122,
+  :block/updated-at 1665740755122}
+ {:block/name "i'd like ...",
+  :block/created-at 1665740754641,
+  :block/updated-at 1665740754641}
+ {:block/name "i'd like that",
+  :block/created-at 1665740754640,
+  :block/updated-at 1665740754640}
  {:block/name "i'm ...",
   :block/created-at 1665634188945,
   :block/updated-at 1665634188945}
@@ -179,6 +524,21 @@
  {:block/name "i'm a/an ...",
   :block/created-at 1665634188981,
   :block/updated-at 1665634188981}
+ {:block/name "i'm grateful for it",
+  :block/created-at 1665740753977,
+  :block/updated-at 1665740753977}
+ {:block/name "i'm happy",
+  :block/created-at 1665740754693,
+  :block/updated-at 1665740754693}
+ {:block/name "i'm happy/glad to have met sb.",
+  :block/created-at 1665740754688,
+  :block/updated-at 1665740754688}
+ {:block/name "i'm happy/glad to see",
+  :block/created-at 1665740754694,
+  :block/updated-at 1665740754694}
+ {:block/name "i'm happy/glad to see/meet you",
+  :block/created-at 1665740754693,
+  :block/updated-at 1665740754693}
  {:block/name "i'm almost ready here",
   :block/created-at 1665634188993,
   :block/updated-at 1665634188993}
@@ -188,6 +548,18 @@
  {:block/name "i'm ready",
   :block/created-at 1665634188993,
   :block/updated-at 1665634188993}
+ {:block/name "i'm really sorry",
+  :block/created-at 1665740755127,
+  :block/updated-at 1665740755127}
+ {:block/name "i'm sorry i'm so late",
+  :block/created-at 1665740755121,
+  :block/updated-at 1665740755121}
+ {:block/name "i'm taking too much of your time",
+  :block/created-at 1665740755107,
+  :block/updated-at 1665740755107}
+ {:block/name "i's a pleasure",
+  :block/created-at 1665740754059,
+  :block/updated-at 1665740754059}
  {:block/name "i've got to",
   :block/created-at 1665634189079,
   :block/updated-at 1665634189079}
@@ -197,63 +569,210 @@
  {:block/name "in-progress",
   :block/created-at 1665634506532,
   :block/updated-at 1665634506532}
+ {:block/name "internation student",
+  :block/created-at 1665740754617,
+  :block/updated-at 1665740754617}
  {:block/name "in school",
   :block/created-at 1665634189024,
   :block/updated-at 1665634189024}
+ {:block/name "it is a pleasure meeting you",
+  :block/created-at 1665740754692,
+  :block/updated-at 1665740754692}
+ {:block/name "it is nice meeting you",
+  :block/created-at 1665740754690,
+  :block/updated-at 1665740754690}
  {:block/name "it was a pleasure meeting you",
   :block/created-at 1665634189076,
   :block/updated-at 1665634189076}
+ {:block/name "it was nice meeting you",
+  :block/created-at 1665740754697,
+  :block/updated-at 1665740754697}
+ {:block/name "it's a good read",
+  :block/created-at 1665740753941,
+  :block/updated-at 1665740753941}
+ {:block/name "it's all greek to sb.",
+  :block/created-at 1665740754615,
+  :block/updated-at 1665740754615}
+ {:block/name "it's all right",
+  :block/created-at 1665740754063,
+  :block/updated-at 1665740754063}
  {:block/name "it's for ...",
   :block/created-at 1665634188967,
   :block/updated-at 1665634188967}
+ {:block/name "it's nothing",
+  :block/created-at 1665740754063,
+  :block/updated-at 1665740754063}
+ {:block/name "it's worth ...",
+  :block/created-at 1665740753938,
+  :block/updated-at 1665740753938}
  {:block/name "it's fine",
   :block/created-at 1665634188976,
   :block/updated-at 1665634188976}
  {:block/name "it's not finished yet",
   :block/created-at 1665634189028,
   :block/updated-at 1665634189028}
+ {:block/name "it looks terrific on ...",
+  :block/created-at 1665740754041,
+  :block/updated-at 1665740754041}
  {:block/name "it was nice meeting sb.",
   :block/created-at 1665634189077,
   :block/updated-at 1665634189077}
  {:block/name "it was nice to meet sb.",
   :block/created-at 1665634189073,
   :block/updated-at 1665634189073}
+ {:block/name "i appreciate it",
+  :block/created-at 1665740753976,
+  :block/updated-at 1665740753976}
  {:block/name "i appreciate your help",
   :block/created-at 1665634188978,
   :block/updated-at 1665634188978}
+ {:block/name "i know. i know. i'm really sorry",
+  :block/created-at 1665740755126,
+  :block/updated-at 1665740755126}
+ {:block/name "i really appreciate your help",
+  :block/created-at 1665740753970,
+  :block/updated-at 1665740753970}
  {:block/name "i really appreciate it",
   :block/created-at 1665634188980,
   :block/updated-at 1665634188980}
+ {:block/name "j. f. kennedy ferry",
+  :block/created-at 1665740755141,
+  :block/updated-at 1665740755141}
+ {:block/name "junior",
+  :block/created-at 1665740754657,
+  :block/updated-at 1665740754657}
+ {:block/name "junior high school",
+  :block/created-at 1665740754657,
+  :block/updated-at 1665740754657}
+ {:block/name "junior middle school",
+  :block/created-at 1665740754656,
+  :block/updated-at 1665740754656}
+ {:block/name "just (wait) a sec.",
+  :block/created-at 1665740754008,
+  :block/updated-at 1665740754008}
+ {:block/name "just (wait) a sec./minute",
+  :block/created-at 1665740754009,
+  :block/updated-at 1665740754009}
+ {:block/name "just (wait) a sec./minute/moment",
+  :block/created-at 1665740754007,
+  :block/updated-at 1665740754007}
+ {:block/name "just a minute",
+  :block/created-at 1665740754003,
+  :block/updated-at 1665740754003}
+ {:block/name "just a moment",
+  :block/created-at 1665740754005,
+  :block/updated-at 1665740754005}
+ {:block/name "just give me a hand",
+  :block/created-at 1665740754026,
+  :block/updated-at 1665740754026}
+ {:block/name "just give sb. a hand",
+  :block/created-at 1665740754025,
+  :block/updated-at 1665740754025}
+ {:block/name "just a sec.",
+  :block/created-at 1665740754002,
+  :block/updated-at 1665740754002}
  {:block/name "just a second",
   :block/created-at 1665634188992,
   :block/updated-at 1665634188992}
+ {:block/name "kennedy",
+  :block/created-at 1665740755142,
+  :block/updated-at 1665740755142}
+ {:block/name "kiss",
+  :block/created-at 1665740754046,
+  :block/updated-at 1665740754046}
+ {:block/name "kiss goodbye to ...",
+  :block/created-at 1665740754049,
+  :block/updated-at 1665740754049}
+ {:block/name "kiss sb.",
+  :block/created-at 1665740754047,
+  :block/updated-at 1665740754047}
  {:block/name "later",
   :block/created-at 1665634506532,
   :block/updated-at 1665634506532}
+ {:block/name "let me",
+  :block/created-at 1665740754016,
+  :block/updated-at 1665740754016}
+ {:block/name "let me try it on",
+  :block/created-at 1665740755107,
+  :block/updated-at 1665740755107}
+ {:block/name "liberty",
+  :block/created-at 1665740753899,
+  :block/updated-at 1665740753899}
+ {:block/name "linden street",
+  :block/created-at 1665740755085,
+  :block/updated-at 1665740755085}
+ {:block/name "live",
+  :block/created-at 1665740753989,
+  :block/updated-at 1665740753989}
  {:block/name "live in",
   :block/created-at 1665634189057,
   :block/updated-at 1665634189057}
  {:block/name "look for sth.",
   :block/created-at 1665634189008,
   :block/updated-at 1665634189008}
+ {:block/name "look forward to do sth.",
+  :block/created-at 1665740754054,
+  :block/updated-at 1665740754054}
+ {:block/name "lost-and-found office",
+  :block/created-at 1665740755133,
+  :block/updated-at 1665740755133}
+ {:block/name "manhattan",
+  :block/created-at 1665740754674,
+  :block/updated-at 1665740754674}
+ {:block/name "marilyn stewart",
+  :block/created-at 1665740755151,
+  :block/updated-at 1665740755151}
  {:block/name "martha vann",
   :block/created-at 1665634188977,
   :block/updated-at 1665634188977}
+ {:block/name "marvelous",
+  :block/created-at 1665740753963,
+  :block/updated-at 1665740753963}
  {:block/name "may i",
   :block/created-at 1665634188953,
   :block/updated-at 1665634188953}
+ {:block/name "minute",
+  :block/created-at 1665740754004,
+  :block/updated-at 1665740754004}
+ {:block/name "mmm-hmm",
+  :block/created-at 1665740755103,
+  :block/updated-at 1665740755103}
+ {:block/name "moment",
+  :block/created-at 1665740754006,
+  :block/updated-at 1665740754006}
  {:block/name "mommy",
   :block/created-at 1665634189007,
   :block/updated-at 1665634189007}
  {:block/name "mrs",
   :block/created-at 1665634188956,
   :block/updated-at 1665634188956}
+ {:block/name "music",
+  :block/created-at 1665740753974,
+  :block/updated-at 1665740753974}
  {:block/name "my name is ...",
   :block/created-at 1665634188944,
   :block/updated-at 1665634188944}
  {:block/name "my pleasure",
   :block/created-at 1665634189013,
   :block/updated-at 1665634189013}
+ {:block/name "mythology",
+  :block/created-at 1665740754614,
+  :block/updated-at 1665740754614}
+ {:block/name "n-year-old",
+  :block/created-at 1665740753892,
+  :block/updated-at 1665740753892}
+ {:block/name "nature",
+  :block/created-at 1665740753973,
+  :block/updated-at 1665740753973}
+ {:block/name "near here",
+  :block/created-at 1665740755090,
+  :block/updated-at 1665740755090}
+ {:block/name "new york city (nyc)",
+  :block/created-at 1665740753880,
+  :block/updated-at 1665740753880}
+ {:block/name "new york harbor",
+  :block/created-at 1665740753894,
+  :block/updated-at 1665740753894}
  {:block/name "new york",
   :block/created-at 1665634189019,
   :block/updated-at 1665634189019}
@@ -266,51 +785,183 @@
  {:block/name "northern",
   :block/created-at 1665634189058,
   :block/updated-at 1665634189058}
+ {:block/name "not at all",
+  :block/created-at 1665740754065,
+  :block/updated-at 1665740754065}
  {:block/name "now",
   :block/created-at 1665634506532,
   :block/updated-at 1665634506532}
+ {:block/name "now maybe ...",
+  :block/created-at 1665740755145,
+  :block/updated-at 1665740755145}
  {:block/name "oct 13th, 2022",
   :block/created-at 1665634135300,
   :block/updated-at 1665634135300}
+ {:block/name "oct 14th, 2022",
+  :block/created-at 1665740753637,
+  :block/updated-at 1665740753637}
+ {:block/name "officer",
+  :block/created-at 1665740755080,
+  :block/updated-at 1665740755080}
  {:block/name "oh, please",
   :block/created-at 1665634188997,
   :block/updated-at 1665634188997}
  {:block/name "oh, please",
   :block/created-at 1665634188999,
   :block/updated-at 1665634188999}
+ {:block/name "on the way home",
+  :block/created-at 1665740755146,
+  :block/updated-at 1665740755146}
+ {:block/name "oversea student",
+  :block/created-at 1665740754616,
+  :block/updated-at 1665740754616}
  {:block/name "photo",
   :block/created-at 1665634188948,
   :block/updated-at 1665634188948}
+ {:block/name "photograph",
+  :block/created-at 1665740753909,
+  :block/updated-at 1665740753909}
  {:block/name "photographer",
   :block/created-at 1665634188947,
   :block/updated-at 1665634188947}
+ {:block/name "picture",
+  :block/created-at 1665740753917,
+  :block/updated-at 1665740753917}
+ {:block/name "pink",
+  :block/created-at 1665740755102,
+  :block/updated-at 1665740755102}
+ {:block/name "platform",
+  :block/created-at 1665740755099,
+  :block/updated-at 1665740755099}
  {:block/name "pleasure",
   :block/created-at 1665634189074,
   :block/updated-at 1665634189074}
+ {:block/name "point",
+  :block/created-at 1665740754030,
+  :block/updated-at 1665740754030}
+ {:block/name "point out",
+  :block/created-at 1665740754032,
+  :block/updated-at 1665740754032}
  {:block/name "pretty",
   :block/created-at 1665634189053,
   :block/updated-at 1665634189053}
+ {:block/name "queens",
+  :block/created-at 1665740754674,
+  :block/updated-at 1665740754674}
+ {:block/name "ready",
+  :block/created-at 1665740754012,
+  :block/updated-at 1665740754012}
+ {:block/name "reflector",
+  :block/created-at 1665740754013,
+  :block/updated-at 1665740754013}
+ {:block/name "remember",
+  :block/created-at 1665740755097,
+  :block/updated-at 1665740755097}
  {:block/name "richard stewart",
   :block/created-at 1665634188946,
   :block/updated-at 1665634188946}
+ {:block/name "riverdale",
+  :block/created-at 1665740755086,
+  :block/updated-at 1665740755086}
+ {:block/name "seller",
+  :block/created-at 1665740753942,
+  :block/updated-at 1665740753942}
+ {:block/name "senior",
+  :block/created-at 1665740754660,
+  :block/updated-at 1665740754660}
+ {:block/name "senior high school",
+  :block/created-at 1665740754659,
+  :block/updated-at 1665740754659}
+ {:block/name "senior middle school",
+  :block/created-at 1665740754658,
+  :block/updated-at 1665740754658}
+ {:block/name "shake one's hand",
+  :block/created-at 1665740753967,
+  :block/updated-at 1665740753967}
  {:block/name "she's very pretty",
   :block/created-at 1665634189052,
   :block/updated-at 1665634189052}
+ {:block/name "show me again some day",
+  :block/created-at 1665740754629,
+  :block/updated-at 1665740754629}
  {:block/name "six o'clock",
   :block/created-at 1665634189067,
   :block/updated-at 1665634189067}
+ {:block/name "six o'clock",
+  :block/created-at 1665740755110,
+  :block/updated-at 1665740755110}
+ {:block/name "small canvas bag",
+  :block/created-at 1665740755140,
+  :block/updated-at 1665740755140}
+ {:block/name "someone",
+  :block/created-at 1665740755143,
+  :block/updated-at 1665740755143}
+ {:block/name "sorry, i beg your pardon",
+  :block/created-at 1665740753901,
+  :block/updated-at 1665740753901}
+ {:block/name "staten island",
+  :block/created-at 1665740754676,
+  :block/updated-at 1665740754676}
+ {:block/name "staten island ferry",
+  :block/created-at 1665740753881,
+  :block/updated-at 1665740753881}
+ {:block/name "staten island",
+  :block/created-at 1665740755132,
+  :block/updated-at 1665740755132}
+ {:block/name "station",
+  :block/created-at 1665740755089,
+  :block/updated-at 1665740755089}
+ {:block/name "statue",
+  :block/created-at 1665740753898,
+  :block/updated-at 1665740753898}
+ {:block/name "statue of liberty",
+  :block/created-at 1665740753897,
+  :block/updated-at 1665740753897}
  {:block/name "steel",
   :block/created-at 1665634189034,
   :block/updated-at 1665634189034}
  {:block/name "steel worker",
   :block/created-at 1665634189033,
   :block/updated-at 1665634189033}
+ {:block/name "stock exchange",
+  :block/created-at 1665740754621,
+  :block/updated-at 1665740754621}
+ {:block/name "straight",
+  :block/created-at 1665740754034,
+  :block/updated-at 1665740754034}
  {:block/name "street",
   :block/created-at 1665634189036,
   :block/updated-at 1665634189036}
  {:block/name "street vendor",
   :block/created-at 1665634189036,
   :block/updated-at 1665634189036}
+ {:block/name "subway",
+  :block/created-at 1665740755088,
+  :block/updated-at 1665740755088}
+ {:block/name "suit sb. well",
+  :block/created-at 1665740755119,
+  :block/updated-at 1665740755119}
+ {:block/name "sure",
+  :block/created-at 1665740755082,
+  :block/updated-at 1665740755082}
+ {:block/name "sweater",
+  :block/created-at 1665740755117,
+  :block/updated-at 1665740755117}
+ {:block/name "take a photo for",
+  :block/created-at 1665740753921,
+  :block/updated-at 1665740753921}
+ {:block/name "take a photo for/of",
+  :block/created-at 1665740753922,
+  :block/updated-at 1665740753922}
+ {:block/name "take a photo for/of/with ...",
+  :block/created-at 1665740753920,
+  :block/updated-at 1665740753920}
+ {:block/name "take a photo of sb.",
+  :block/created-at 1665740753922,
+  :block/updated-at 1665740753922}
+ {:block/name "take a photo with sb.",
+  :block/created-at 1665740753925,
+  :block/updated-at 1665740753925}
  {:block/name "take a picture",
   :block/created-at 1665634188954,
   :block/updated-at 1665634188954}
@@ -320,33 +971,97 @@
  {:block/name "take a picture of sb.",
   :block/created-at 1665634188954,
   :block/updated-at 1665634188954}
+ {:block/name "take one's photo",
+  :block/created-at 1665740753919,
+  :block/updated-at 1665740753919}
+ {:block/name "take one's picture",
+  :block/created-at 1665740753915,
+  :block/updated-at 1665740753915}
+ {:block/name "take pictures",
+  :block/created-at 1665740753896,
+  :block/updated-at 1665740753896}
+ {:block/name "take too much of sth.",
+  :block/created-at 1665740755108,
+  :block/updated-at 1665740755108}
+ {:block/name "take the number ...",
+  :block/created-at 1665740755094,
+  :block/updated-at 1665740755094}
+ {:block/name "telephone exchange",
+  :block/created-at 1665740754622,
+  :block/updated-at 1665740754622}
  {:block/name "tell me about",
   :block/created-at 1665634189055,
   :block/updated-at 1665634189055}
  {:block/name "ten after six",
   :block/created-at 1665634189068,
   :block/updated-at 1665634189068}
+ {:block/name "ten after six",
+  :block/created-at 1665740755111,
+  :block/updated-at 1665740755111}
  {:block/name "terrific",
   :block/created-at 1665634189003,
   :block/updated-at 1665634189003}
+ {:block/name "terror",
+  :block/created-at 1665740753991,
+  :block/updated-at 1665740753991}
  {:block/name "thanks",
   :block/created-at 1665634189053,
   :block/updated-at 1665634189053}
+ {:block/name "thanks, anyway",
+  :block/created-at 1665740755145,
+  :block/updated-at 1665740755145}
  {:block/name "thanks again",
   :block/created-at 1665634189011,
   :block/updated-at 1665634189011}
  {:block/name "thanks for your help",
   :block/created-at 1665634189078,
   :block/updated-at 1665634189078}
+ {:block/name "thank you. i appreciate your help",
+  :block/created-at 1665740753968,
+  :block/updated-at 1665740753968}
+ {:block/name "that's a good",
+  :block/created-at 1665740753957,
+  :block/updated-at 1665740753957}
+ {:block/name "that's a good/excellent",
+  :block/created-at 1665740753957,
+  :block/updated-at 1665740753957}
+ {:block/name "that's a good/excellent/wonderful",
+  :block/created-at 1665740753958,
+  :block/updated-at 1665740753958}
+ {:block/name "that's a good/excellent/wonderful/marvelous",
+  :block/created-at 1665740753959,
+  :block/updated-at 1665740753959}
+ {:block/name
+  "that's a good/excellent/wonderful/marvelous/brilliant idea.",
+  :block/created-at 1665740753956,
+  :block/updated-at 1665740753956}
  {:block/name "that's a nice idea",
   :block/created-at 1665634188975,
   :block/updated-at 1665634188975}
+ {:block/name "the big apple",
+  :block/created-at 1665740753999,
+  :block/updated-at 1665740753999}
  {:block/name "thessaloniki",
   :block/created-at 1665634189058,
   :block/updated-at 1665634189058}
+ {:block/name "think of",
+  :block/created-at 1665740755134,
+  :block/updated-at 1665740755134}
+ {:block/name "thirty-year-old",
+  :block/created-at 1665740753893,
+  :block/updated-at 1665740753893}
+ {:block/name "this afternoon",
+  :block/created-at 1665740755138,
+  :block/updated-at 1665740755138}
  {:block/name "todo",
   :block/created-at 1665634506532,
   :block/updated-at 1665634506532}
+ {:block/name "tomorrow never come",
+  :block/created-at 1665740754627,
+  :block/updated-at 1665740754627}
+ {:block/name "too adj. for sb.",
+  :block/created-at 1665740755101,
+  :block/updated-at 1665740755101}
  {:block/name "u.s.a.",
   :block/created-at 1665634189033,
   :block/updated-at 1665634189033}
@@ -356,24 +1071,72 @@
  {:block/name "united states",
   :block/created-at 1665634189032,
   :block/updated-at 1665634189032}
+ {:block/name "uptown",
+  :block/created-at 1665740755098,
+  :block/updated-at 1665740755098}
+ {:block/name "uptown platform",
+  :block/created-at 1665740755097,
+  :block/updated-at 1665740755097}
+ {:block/name "van cortlandt park",
+  :block/created-at 1665740755094,
+  :block/updated-at 1665740755094}
  {:block/name "vendor",
   :block/created-at 1665634189037,
   :block/updated-at 1665634189037}
+ {:block/name "very good",
+  :block/created-at 1665740754630,
+  :block/updated-at 1665740754630}
  {:block/name "wait",
   :block/created-at 1665634506532,
   :block/updated-at 1665634506532}
+ {:block/name "wait a minute",
+  :block/created-at 1665740754002,
+  :block/updated-at 1665740754002}
+ {:block/name "wait a moment",
+  :block/created-at 1665740754005,
+  :block/updated-at 1665740754005}
  {:block/name "waiting",
   :block/created-at 1665634506532,
   :block/updated-at 1665634506532}
+ {:block/name "wait a sec.",
+  :block/created-at 1665740754001,
+  :block/updated-at 1665740754001}
+ {:block/name "wait a second",
+  :block/created-at 1665740754000,
+  :block/updated-at 1665740754000}
+ {:block/name "walk towards ...",
+  :block/created-at 1665740754013,
+  :block/updated-at 1665740754013}
+ {:block/name "we're late",
+  :block/created-at 1665740755123,
+  :block/updated-at 1665740755123}
+ {:block/name "welcome",
+  :block/created-at 1665740753997,
+  :block/updated-at 1665740753997}
+ {:block/name "welcome back",
+  :block/created-at 1665740753997,
+  :block/updated-at 1665740753997}
+ {:block/name "welcome home",
+  :block/created-at 1665740753996,
+  :block/updated-at 1665740753996}
  {:block/name "welcome to sth.",
   :block/created-at 1665634188991,
   :block/updated-at 1665634188991}
  {:block/name "what about",
   :block/created-at 1665634189054,
   :block/updated-at 1665634189054}
+ {:block/name "what for ...",
+  :block/created-at 1665740753936,
+  :block/updated-at 1665740753936}
  {:block/name "what's",
   :block/created-at 1665634189046,
   :block/updated-at 1665634189046}
+ {:block/name "what's one's point",
+  :block/created-at 1665740754031,
+  :block/updated-at 1665740754031}
+ {:block/name "what's your point",
+  :block/created-at 1665740754031,
+  :block/updated-at 1665740754031}
  {:block/name "what's her name",
   :block/created-at 1665634189046,
   :block/updated-at 1665634189046}
@@ -395,6 +1158,15 @@
  {:block/name "who",
   :block/created-at 1665634189097,
   :block/updated-at 1665634189097}
+ {:block/name "why",
+  :block/created-at 1665740753935,
+  :block/updated-at 1665740753935}
+ {:block/name "will be doing",
+  :block/created-at 1665740754051,
+  :block/updated-at 1665740754051}
+ {:block/name "will do",
+  :block/created-at 1665740754052,
+  :block/updated-at 1665740754052}
  {:block/name "will you excuse me? ",
   :block/created-at 1665634189069,
   :block/updated-at 1665634189069}
@@ -416,6 +1188,9 @@
  {:block/name "would you like",
   :block/created-at 1665634189030,
   :block/updated-at 1665634189030}
+ {:block/name "would you tell me something about",
+  :block/created-at 1665740754669,
+  :block/updated-at 1665740754669}
  {:block/name "would you like sth.",
   :block/created-at 1665634189031,
   :block/updated-at 1665634189031}
@@ -437,24 +1212,105 @@
  {:block/name "younger brother",
   :block/created-at 1665634189047,
   :block/updated-at 1665634189047}
+ {:block/name "一般将来时",
+  :block/created-at 1665740754052,
+  :block/updated-at 1665740754052}
+ {:block/name "一般现在时",
+  :block/created-at 1665740753988,
+  :block/updated-at 1665740753988}
+ {:block/name "中英双语",
+  :block/created-at 1665740753889,
+  :block/updated-at 1665740753889}
  {:block/name "中英双语教师讲解",
   :block/created-at 1665634188937,
   :block/updated-at 1665634188937}
+ {:block/name "书籍",
+  :block/created-at 1665740755667,
+  :block/updated-at 1665740755667}
  {:block/name "关于",
   :block/created-at 1665642569960,
   :block/updated-at 1665642569960}
+ {:block/name "初中英语人教版",
+  :block/created-at 1665740754068,
+  :block/updated-at 1665740754068}
+ {:block/name "参考",
+  :block/created-at 1665740755672,
+  :block/updated-at 1665740755672}
  {:block/name "参考链接",
   :block/created-at 1665634189087,
   :block/updated-at 1665634189087}
+ {:block/name "反问",
+  :block/created-at 1665740755118,
+  :block/updated-at 1665740755118}
+ {:block/name "发音",
+  :block/created-at 1665740755668,
+  :block/updated-at 1665740755668}
+ {:block/name "发音连读",
+  :block/created-at 1665740754017,
+  :block/updated-at 1665740754017}
+ {:block/name "可可英语",
+  :block/created-at 1665740754068,
+  :block/updated-at 1665740754068}
+ {:block/name "告别",
+  :block/created-at 1665740754700,
+  :block/updated-at 1665740754700}
+ {:block/name "哔哩哔哩",
+  :block/created-at 1665740754067,
+  :block/updated-at 1665740754067}
+ {:block/name "图片",
+  :block/created-at 1665740754065,
+  :block/updated-at 1665740754065}
+ {:block/name "将来进行时",
+  :block/created-at 1665740754050,
+  :block/updated-at 1665740754050}
+ {:block/name "尺码",
+  :block/created-at 1665740755105,
+  :block/updated-at 1665740755105}
+ {:block/name "拍照片",
+  :block/created-at 1665740753919,
+  :block/updated-at 1665740753919}
  {:block/name "文字",
   :block/created-at 1665634188941,
   :block/updated-at 1665634188941}
+ {:block/name "时间",
+  :block/created-at 1665740755109,
+  :block/updated-at 1665740755109}
+ {:block/name "现在进行时",
+  :block/created-at 1665740753993,
+  :block/updated-at 1665740753993}
+ {:block/name "相册",
+  :block/created-at 1665740753953,
+  :block/updated-at 1665740753953}
+ {:block/name "看电影",
+  :block/created-at 1665740753926,
+  :block/updated-at 1665740753926}
+ {:block/name "第一次见面",
+  :block/created-at 1665740754700,
+  :block/updated-at 1665740754700}
+ {:block/name "精讲",
+  :block/created-at 1665740753888,
+  :block/updated-at 1665740753888}
+ {:block/name "美式英语",
+  :block/created-at 1665740753931,
+  :block/updated-at 1665740753931}
+ {:block/name "英式英语",
+  :block/created-at 1665740753930,
+  :block/updated-at 1665740753930}
  {:block/name "英文原声",
   :block/created-at 1665634188940,
   :block/updated-at 1665634188940}
+ {:block/name "见面",
+  :block/created-at 1665740754701,
+  :block/updated-at 1665740754701}
  {:block/name "视频",
   :block/created-at 1665634188936,
   :block/updated-at 1665634188936}
+ {:block/name "走遍美国",
+  :block/created-at 1665740755680,
+  :block/updated-at 1665740755680}
+ {:block/name "走遍美国family album usa【全集高清】",
+  :block/created-at 1665740753888,
+  :block/updated-at 1665740753888}
  {:block/name "音频",
   :block/created-at 1665634188938, 
   :block/updated-at 1665634188938}]

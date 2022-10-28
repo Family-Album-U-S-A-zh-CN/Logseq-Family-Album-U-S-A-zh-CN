@@ -27,45 +27,77 @@ where:: [[New York Harbor]]
 			- <audio src="http://k6.kekenet.com/Sound/Article/kekenetalbum/u0101.mp3" id="myaudio" controls="" preload="auto">no support!</audio>
 	- ## [[文字]]
 		- (Thirty-year-old Richard Stewart is on a ferryboat in New York Harbor. He is taking pictures against the background of New York Harbor and the Statue of Liberty.)
-			- [[n-year-old]]
-				- [[Thirty-year-old]]
+			- [[year-old]] / [[year old]] / [[years old]]
+				- [[年龄]] / [[Age]]
+				- [[year old]] / [[years old]]
+					- 总括而言，决定是否在「year old」（及其他如「week old」和「minute old」）中加上连字号(hyphen) 取决于年龄相对于名词的摆放位置。
+					- 当年龄放在名词后，便不需使用连字号（即「year old」或「years old」）：
+						- years old 是固定搭配，通常前面是数字，year 根据数字选择用单数或复数。是个形容词短语，可做谓语，不可以做冠词，即不可以用来修饰名词代词等。
+						- years old的英式读法是['jɜːz əʊld]；美式读法是['jɜːz oʊld]。
+						- ✅ The baby is one month old. （这个婴儿现在一个月大。）
+						- ❌ The baby is one month old. （这个婴儿现在一个月大。）
+						- ✅ The baby is two months old. （这个婴儿现在两个月大。）
+						- ❌ The baby is two-month-old.
+				- [[year-old]]
+					- year-old 是形容词，一般用作定语，修饰名词，也可以用作名词。
+					- year-old的英式读法是['jɜːr'əʊld]；美式读法是['jɜːr'əʊld]。
+					- 当年龄作为形容词放在名词前，便要运用连字号（即「year-old」）：
+						- ✅ An 800-year-old castle . （一座800 年历史的城堡。）
+						- ❌ An 800 years old castle.
+					- 当年龄作为名词时，便要运用连字号（即「year-old」）：
+						- ✅ He is lying on the floor like a three-year-old. （他尤如三岁小孩般躺在地上。）
+						- ❌ He is lying on the floor like a three years old.
+				- [「年龄问题」：连字号(hyphen) 的运用– The Languaging Lab | 香港翻译校对服务 - https://thelanguaginglab.com/2021/01/04/the-year-old-problem-when-to-use-a-hyphen-tc/](https://thelanguaginglab.com/2021/01/04/the-year-old-problem-when-to-use-a-hyphen-tc/)
+				- [[hyphen]]
 			- [[ferryboat]]
+				- [[ferry]]
+				- [[boat]]
 			- [[New York Harbor]]
 				- 纽约港
 				- [[harbor]]
-			- [[take pictures]]
-			- [[against]]
+			- [[take pictures against of sth.]]
+				- [[take pictures]]
+				- [[against]]
 			- [[Statue of Liberty]]
 				- 自由女神像
 				- [[Statue]]
 				- [[Liberty]]
 		- **Richard:** Excuse me. My name is Richard Stewart. I'm a photographer. May I take a picture of you and your little boy?
-		- 对不起，我叫Richard Stewart。我是一位摄影师。我可以为你和你的小男孩儿拍一张照片吗？
+		- 对不起，我叫 Richard Stewart。我是一位摄影师。我可以为你和你的小男孩儿拍一张照片吗？
 			- [[Excuse me]]
 				- 这是 Richard 在与陌生人搭讪并介绍自己。
 				- Excuse me 这个短语用来引起对方的注意。相当于汉语的“对不起，劳驾”。
 				- 六种常用用法：
 					- 有礼貌的引起注意
+						- [[搭讪]]
 					- 打断对方说话而抱歉 Excuse me interrupting
+						- [[打断]]
 					- 离开或停止与其交谈
+						- [[离开]]
 					- 借过，对不起，劳驾
+						- [[借过]]
 					- 为失礼而道歉
+						- [[失礼道歉]]
 					- 请再说一遍，相当于 [[Sorry, I beg your pardon]]
+						- [[重复一遍]]
 				- [[Excuse]]
+					- [[单词多音]]
 					- 名词：**英 [ɪkˈskjuːs] 美 [ɪkˈskjuːs]**。借口。
 						- Do not find excuses for your fault.
 					- 动词：**英 [ɪkˈskjuːz] 美 [ɪkˈskjuːz]**。
 						- [[Excuse for messy]]
+							- [[messy]]
+				- Do not make this mistake again.
 			- [[My name is ...]]
 				- 我的名字是...
 				- [[发音连读]] [my nay•miz]
 				- [[I'm ...]]
 					- 我是...
-			- [[Richard Stewart]]
+				- [[Richard Stewart]]
 			- [[photographer]]
 				- UK /fəˈtɒɡ.rə.fər/
 					- <audio controls="" preload="none" controlslist="nodownload" class="i-amphtml-fill-content">
-					                                      
+					  
 					                                      <source type="audio/mpeg" src="https://dictionary.cambridge.org/media/%E8%8B%B1%E8%AF%AD/uk_pron/u/ukp/ukpho/ukphone027.mp3">
 					                                      <source type="audio/ogg" src="https://dictionary.cambridge.org/zhs/media/%E8%8B%B1%E8%AF%AD/uk_pron_ogg/u/ukp/ukpho/ukphone027.ogg">
 					                                  </audio>
@@ -77,35 +109,45 @@ where:: [[New York Harbor]]
 				- [PHOTOGRAPHER的英语发音 - https://dictionary.cambridge.org/zhs/%E5%8F%91%E9%9F%B3/%E8%8B%B1%E8%AF%AD/photographer](https://dictionary.cambridge.org/zhs/%E5%8F%91%E9%9F%B3/%E8%8B%B1%E8%AF%AD/photographer)
 					- [[photograph]] 照片，同 [[photo]]
 			- Excuse me. My name is .... I'm a/an .... May I ...
-			- 自我介绍时可以先介绍自己的名字，再说明自己的职业。
-			- 介绍自己的名字时，可以像 Richard 一样，说 My name is Richard Stewart.
-			- 也可以像 Mrs. Vann 那样，说 I'm Martha Vann.
-			- 或者直接说出姓名 Alexadra.
-			- [[I'm a/an ...]]
-				- 我是一名...
-			- [[May I]]
-				- May I...是一种很礼貌的征求别人的同意的说法，相当于“我可以...吗?”。
-				- Richard 想要为 Mrs. Vann 母子拍照片，他首先要征得当事人的同意，否则闹出肖像权的问题可不是好玩滴~~
-			- [[take a picture]]
-				- [[take one's picture]]
-				- [[take a picture of sb.]]
-				- [[take a picture for sb.]]
-				- photo 一般指人物照片或相片，picture 指图片或图像，范围更广，不限于人物和风景照片。
-					- [[Picture]]
-				- [[photo]]
-					- [[take one's photo]]
-					- [[拍照片]]
-					- [[take a photo for/of/with ...]] 介词用法
-						- [[take a photo of sb.]] 给某人拍照
-							- [[Can you take a photo of me]] 你能给我拍照吗？
-						- [[Can you take a photo for us]] 你能为我们拍照吗？
-						- [[take a photo with sb.]]
-							- [[Can I take a photo with you]] 我可以和你合影吗？
-					- [[看电影]]
-						- [[go to a/the cinema]] 或直接写出影院的名字，比如 go toGrand Theatre
-							- [[cinema]]
-						- [[英式英语]] [[go to the pictures]]
-						- [[美式英语]] [[go to movies]]
+			- [[自我介绍]]
+				- [[姓名]]
+				- 自我介绍时可以先介绍自己的名字，再说明自己的职业。
+				- 介绍自己的名字时，可以像 Richard 一样，说 My name is Richard Stewart.
+				- 也可以像 Mrs. Vann 那样，说 I'm Martha Vann.
+				- 或者直接说出姓名 Alexadra.
+				- [[I'm a/an ...]]
+					- 我是一名...
+				- [[May I]]
+					- [[发音连读]] /meiyai/ 中间加一个 /y/ 半元音。
+					- May I...是一种很礼貌的征求别人的同意的说法，相当于“我可以...吗?”。
+					- Richard 想要为 Mrs. Vann 母子拍照片，他首先要征得当事人的同意，否则闹出肖像权的问题可不是好玩滴~~
+			- [[take a picture]] / [[take a photo]]
+				- [[拍照片]]
+				- [[Picture]] / [[Photo]]
+					- photo 一般指人物照片或相片，picture 指图片或图像，范围更广，不限于人物和风景照片。
+				- [[take pictures]] / [[take photos]]
+				- [[take one's picture]] 给某人拍照 / [[take one's photo]]
+				- [[take a picture of sth.]] 给...拍照片（风景照）
+				- [[take a picture of sb.]] 给某人拍照 / [[take a photo of sb.]]
+					- Can you take a picture of me? 你能给我拍照吗？
+				- [[take a picture for sb.]] 为某人拍照 / [[take a photo for sb.]]
+					- Can you take a photo for me? 你能为我拍照吗？
+				- [[take a picture with sb.]] 和某人合影 / [[take a photo with sb.]]
+					- Can I take a picture with you? 我可以和你合影吗？
+				- [[看电影]]
+					- [[go to a cinema]] / [[go to the cinema]]
+						- [[cinema]]
+					- [[英式英语]] [[go to the pictures]]
+						- [[Picture]]
+					- [[美式英语]] [[go to the movies]]
+						- [[Movie]]
+				- [[去剧院]]
+					- [[go to the theatre]]
+					- 或直接写出影院的名字，比如 [[go to Grand Theater]]
+				- [[picturesque]]
+					- 风景如画的
+					- a picturesque village
+						- [[village]]
 		- **Mrs.Vann:** What's it for?
 		- 做什么用？
 			- [[Mrs]]
@@ -120,12 +162,19 @@ where:: [[New York Harbor]]
 				- It's worth reading a second time.
 					- [[a second time]]
 			- [[book]]
-				- [[a best seller]] 畅销书，等同 [[It's a good read]]
+				- [[a best seller]] 畅销书，卖的最好的东西。
 					- [[seller]]
-				- 动词: [[book a  sth.]] 预订...
-					- book a room/ticket
+				- [[be good read]]
+					- This book is good read.
+				- 动词: [[book sth.]] 预订...
+					- book a hotel room, book a table, book a ticket
 		- **Mrs.Vann:** You're writing a book?
 		- 你在写一本书吗?
+			- [[write a book]]
+				- [[write the book]]
+					- [[the]] 冠词 the 强调专门为出版而写的书。This book is for publication.
+				- [[write a letter]]
+					- [[letter]]
 		- **Richard:** It's a book of pictures. I call it Family Album, U.S.A.
 		- 这是一本摄影集。我称之为“走遍美国”。
 			- [[call it Family Album]]
@@ -133,17 +182,22 @@ where:: [[New York Harbor]]
 					- [[call A B]] 把 A 称为 B
 						- [[call it sth.]]
 					- [[call in sick]] 请病假
-					- [[call sb. names]] 骂人。注意 names 是复数。
+						- [[sick]]
+					- [[call one's names]] 谩骂，骂人。注意 names 是复数。
 						- [[call his names]] 骂他
 				- [[Family Album, U.S.A.]]
 					- [[Family]]
 					- [[Album]]
-						- [[相册]]
+						- [[相册]]，[[专辑]]
+						- [[alb-]] / [[alp-]]
+							- [[词根] 白色的
 					- [[U.S.A.]]
 		- **Mrs.Vann:** Oh, that's a nice idea. Well, it's fine if you take our picture. I'm Martha Vann. (She shakes Richard's hand.)
 		- 噢,这想法不错。你想为我们拍照就请吧。我叫Martha Vann。
 			- [[that's a nice idea]]
 				- [[Good idea]]
+					- [[sounds good]] / [[sounds great]]
+						- [[sound]]
 				- [[That's a good/excellent/wonderful/marvelous/brilliant idea.]]
 					- [[nice]]
 					- [[good]]
@@ -152,29 +206,40 @@ where:: [[New York Harbor]]
 					- [[marvelous]]
 					- [[brilliant]]
 			- [[It's fine]]
-				- [[Everything is gonna be fine/Ok]]
+				- [[Everything is gonna be fine]] / [[Everything is gonna be OK]] / [[Everything is gonna be all right]]
+					- [[be gonna be]]
 					- 在情况不佳的情况下安慰
+				- [[fine]]
 			- [[Martha Vann]]
-			- [[shake one's hand]] 和某人握手
-				- 男女见面，握手一般要等女士先伸出手。
+			- [[shake one's hand]] / [[shake hand with sb.]]
+				- 和某人握手。男女见面，握手一般要等女士先伸出手。
+				- [[shake]]
 		- **Richard:** Thank you. I appreciate your help. I'm Richard. What's your name?
 		- 谢谢。很感谢你的帮助。我是Richard，你叫什么？
 			- [[Thank you. I appreciate your help]]
-			- [[appreciate]]
-			- [[I appreciate your help]]
-			- [[I really appreciate your help]]
+				- 这是在受别人帮助或听了别人的忠告之后的感谢语。在 Richard 向 Mrs. Vann 说明了照片的用途后，Mrs. Vann 欣然接受拍照的请求， 之后 Richard 立即向对方表达了感谢。这里也可以说 I really appreciate it.
 				- [[appreciate]]
-					- [[depreciate]]
+					- 感激
+						- [[appreciate sth.]]
+						- [[I appreciate your help]]
+						- [[I really appreciate your help]]
+						- [[I really appreciate it]]
+						- [[I appreciate it]]
+						- [[I'm grateful for it]]
+							- [[grateful]]
+							- [[grateful for sth.]]
+							- [[I'm grateful]]
+					- 升值
+						- I believe houses will appreciate.
 					- 欣赏。appreciate nature/music/food.
 						- [[nature]]
 						- [[music]]
 						- [[food]]
-					- 感激
-				- [[I really appreciate it]]
-				- [[I appreciate it]]
-				- [[I'm grateful for it]]
-					- [[grateful]]
-				- 这是在受别人帮助或听了别人的忠告之后的感谢语。在 Richard 向 Mrs. Vann 说明了照片的用途后，Mrs. Vann 欣然接受拍照的请求， 之后 Richard 立即向对方表达了感谢。这里也可以说 I really appreciate it.
+					- [[ap-]]
+						- [[词根]] 升值，价值
+					- [[de-]]
+						- [[词根]] 贬值
+						- [[depreciate]]
 			- [[What's your name]]
 				- [[I'm a/an ...]]
 		- **Gerald:** Gerald.
@@ -183,14 +248,18 @@ where:: [[New York Harbor]]
 		- **Richard:** How old are you, Gerald?
 		- 你今年多大？
 			- [[How old are you]]
+			- Age is a secret.
 		- **Gerald:** Five.
 		- 五岁。
-			- when I was a boy of fifteen ... 当我还是一个 15 岁小男孩时...，相当于 when i was a 15 year old boy
+			- when I was a boy of fifteen ... 当我还是一个 15 岁小男孩时...，相当于 when i was a 15-year-old boy
+			- [[of n]] / [[year-old]]
+				- [[年龄]] / [[Age]]
 		- **Richard:** And where do you live?
 		- 你们住哪？
 			- [[Where do you live]]
 				- [[live in]]
 				- [[be in]]
+				- [[be living in]]
 			- [[do you]]
 				- [[发音连读]]
 		- **Mrs.Vann:** We live in California.
@@ -200,8 +269,8 @@ where:: [[New York Harbor]]
 				- [[be in]]
 				- [[live]]
 					- 做形容词、副词的时候读[laiv]
-						- a live TV show.
-						- a live animal
+						- a live TV show. 一部直播剧
+						- a live animal 一个活着的动物
 					- 做动词的时候读[liv]
 						- live in fear/terror
 							- [[fear]]
@@ -257,13 +326,15 @@ where:: [[New York Harbor]]
 					- [[favor]]
 				- [[Just give sb. a hand]]
 					- [[Just give me a hand]] 一般用于请亲人朋友帮忙
+			- [[Can I]]
+				- [[发音连读]] 发音为 [canai]
 		- **Richard:** Oh, please. Hold Gerald's hand, please. Great! Now point to the buildings. Terrific! Give Mommy a kiss, Gerald. Nice! Thank you, Gerald. And thank you, Mrs Vann.
 		- 噢，太好了。请握住Gerald的手。很好！现在请指着那些建筑物。好极了！亲一亲妈咪，很棒！谢谢
 		- 你， Gerald。谢谢，Vann太太。
-			- [[hold one's hand]] 握住某人的手
+			- [[hold one's hand]] 牵着/握住某人的手
 				- [[hold]]
-					- [[hold sb. close]] 抱紧某人
-					- [[hold on]] 别挂断，保持住
+					- [[hold sb. close]] 抱紧某人。hold sb. close in one's arms.
+					- [[hold on]] 别挂断，保持住，请稍等
 			- [[point]]
 				- [[What's one's point]] 某人想说什么
 					- [[What's your point]] 你到底想说什么
@@ -282,17 +353,41 @@ where:: [[New York Harbor]]
 				- 可怕的
 				- 极好的
 					- [[it looks terrific on ...]] 看起来很好
+						- [[穿衣打扮]]
+						- [[suit]] / [[fit]] / [[match]]
+							- suit, fit, match 用作动词时都可以表示“适合”。它们有什么区别呢？
+							- 1）suit 主要指款式、颜色或花样等适合，也可指合乎需要、口味、性格、条件、身份等。
+							- 例句：
+							- ①Red and black are colours that suit me very well.
+							- 红色和黑色都是适合我的颜色。
+							- ②The seven o’clock train will suit us very well.
+							- 7点钟那班火车很适合我们。
+							- 2）fit 多指大小、形状等合适，引申为“一致”、“吻合”。
+							- 例句：
+							- ① Her coat fits (her) exactly.
+							- 她的大衣很合身。
+							- ② All the facts certainly fit your theory.
+							- 所有的事实都和你的说法相符。
+							- 3）match 多指大小、色调、形状、性质等相匹配、协调。
+							- 例句：
+							- ①The curtains and the carpets match perfectly.
+							- 窗帘和地毯十分协调。
+							- ②Do you think these two colours match?
+							- 你觉得这两种颜色相配吗？
 			- [[Nice]]
 				- 在拍照的过程中，Mrs.Vann 母子每在他的要求下摆一个新的姿势，Richard 都会对他们的配合给予肯定。他用到的"Great! Terrific! Nice!" 都是用来表示“太好了，好极了，很好”的意思。
 					- [[Great]]
 					- [[Terrific]]
 			- [[Mommy]]
 			- [[kiss]]
+				- 吻，亲
 				- [[give sb. a kiss]]
 				- [[kiss sb.]]
-				- [[blow sb a kiss]] 给某人一个飞吻
-					- [[blow]]
-				- [[kiss goodbye to ...]] 与...吻别，告别。kiss goodbye to my dream.
+				- [[blow kiss]]
+					- 飞吻
+					- [[blow sb. a kiss]] / [[blow a kiss to sb.]] 给某人一个飞吻
+						- [[blow]]
+				- [[kiss goodbye to ...]] 与...吻别，告别。kiss goodbye to my dream. 与梦想告别
 					- [[goodbye]]
 		- **Mrs.Vann:** Oh, my pleasure. We'll be looking for your book.
 		- 噢，不客气。我们一定去买你的书。
@@ -301,8 +396,15 @@ where:: [[New York Harbor]]
 				- 将来正在进行的事情
 			- [[will do]] [[一般将来时]]
 				- 将要发生的事情，但不一定会发生
-			- [[look for sth.]]
-				- [[look forward to do sth.]]
+			- [[look for]]
+				- [[look for sth.]]
+				- [[look forward]]
+					- 盼望，期待
+					- [[expect]]
+					- [[look forward sth.]] / [[look forward sb.]]
+					- [[look forward to doing sth.]]
+						- 这里的 to 是介词，后接动名词（doing），而不是 to do 结构。
+					- [[look forward for doing sth.]]
 		- **Richard:** Thank you. Good-bye. Bye, Gerald. Thanks again.
 			- [[Good-bye]]
 			- [[Bye]]
@@ -320,6 +422,14 @@ where:: [[New York Harbor]]
 				- [[Don't mention it]]
 				- [[Not at all]]
 				- 当别人对你表示感谢时，可以用"My pleasure."或者"You're welcome."来进行回应。
+			- [[With pleasure]]
+				- 愿意效劳。用来回答 请求！
+				- 注意感受这里两个语境不同。
+				- Thank you very much for your help.
+				- It's a pleasure.
+				- Can you help me carry the box?
+				- With pleasure.
+				- [[pleasure]]
 	- ## [[图片]]
 		- ![image.png](../assets/Family-Album-U.S.A./1-1-1.png)
 		- ![image.png](../assets/Family-Album-U.S.A./1-1-2.png)
